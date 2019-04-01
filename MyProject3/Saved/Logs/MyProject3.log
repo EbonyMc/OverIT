@@ -1701,3 +1701,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.01-20.06.40:717][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.04.01-20.06.50:873][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beamy" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset" SILENT=true
 [2019.04.01-20.06.51:427][801]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Beamy73EC779F408F7FA62694EDAF3A96934F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset'
+[2019.04.01-20.07.44:584][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.07.59:967][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.08.00:145][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beamy" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset" SILENT=true
+[2019.04.01-20.08.00:389][628]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Beamy6D37B4D447631671A355B18241AE413F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset'
+[2019.04.01-20.08.01:442][750]LogCascade: Quitting Cascade. FXSystem=0x000001B1824FB7E0
+[2019.04.01-20.08.08:823][369]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BabyCarts.BabyCarts
+[2019.04.01-20.08.16:350][681]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.04.01-20.08.18:474][773]BlueprintLog: New page: Compile ShoppingCarts
+[2019.04.01-20.08.45:586][  4]LogRenderer: Reallocating scene render targets to support 1208x712 Format 26 NumSamples 1 (Frame:1).
+[2019.04.01-20.08.56:006][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.08.57:323][622]LogRenderer: Reallocating scene render targets to support 1208x900 Format 26 NumSamples 1 (Frame:1).
+[2019.04.01-20.09.08:814][471]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Confetti.Confetti
+[2019.04.01-20.09.21:853][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.09.21:962][330]LogCascade: Quitting Cascade. FXSystem=0x000001B1B736FA60
+[2019.04.01-20.09.25:631][557]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Beamy.Beamy
+[2019.04.01-20.09.30:168][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.09.38:159][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.09.38:276][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beamy" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset" SILENT=true
+[2019.04.01-20.09.38:526][924]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Beamy6286C2414F112CAE036AC48C9ACA6100.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset'
+[2019.04.01-20.09.40:602][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.01-20.09.42:226][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.10.01:864][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.10.08:928][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.10.09:024][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beamy" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset" SILENT=true
+[2019.04.01-20.10.09:277][570]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Beamy334835284527853A2CC425B0ABD9C413.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset'
+[2019.04.01-20.10.09:910][642]LogCascade: Quitting Cascade. FXSystem=0x000001B14A872B60
+[2019.04.01-20.10.19:303][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.11.03:026][605]BlueprintLog: New page: Compile BabyCarts
+[2019.04.01-20.11.32:078][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.11.32:179][353]BlueprintLog: New page: Compile BabyCarts
+[2019.04.01-20.11.40:821][834]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Beamy.Beamy
+[2019.04.01-20.11.44:803][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.11.59:429][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.11.59:532][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beamy" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset" SILENT=true
+[2019.04.01-20.11.59:795][ 47]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Beamy8A8DA3994AD87F782E48BA9BEC7CAE4C.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset'
+[2019.04.01-20.12.00:466][123]LogCascade: Quitting Cascade. FXSystem=0x000001B1A6F49DA0
+[2019.04.01-20.12.04:858][479]LogSlate: Window 'Message Log' being destroyed
+[2019.04.01-20.12.04:861][479]LogSlate: Window 'Message Log' being destroyed
+[2019.04.01-20.12.16:884][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.12.50:903][793]BlueprintLog: New page: Compile BabyCarts
+[2019.04.01-20.12.51:820][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.04.01-20.12.52:375][815]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/BabyCartsEE5A025446B28D9F203CD48AB9355178.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.04.01-20.13.00:042][191]LogSlate: Window 'BabyCarts' being destroyed
+[2019.04.01-20.13.06:384][703]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.04.01-20.13.57:574][496]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Confetti.Confetti
+[2019.04.01-20.14.00:156][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.14.01:379][885]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Beamy.Beamy
+[2019.04.01-20.14.11:840][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.14.16:433][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.14.19:470][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Beamy" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset" SILENT=true
+[2019.04.01-20.14.19:719][ 20]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Beamy68B5A3924C707E1718737D992A0DA71C.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Beamy.uasset'
+[2019.04.01-20.14.31:877][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.04.01-20.14.32:997][450]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/BabyCartsF92966DE4A8A19769D0796957F4DB07D.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.04.01-20.14.35:512][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box13)
+[2019.04.01-20.14.37:081][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-20.14.37:150][826]LogCascade: Quitting Cascade. FXSystem=0x000001B14411A0C0
+[2019.04.01-20.14.38:051][916]LogCascade: Quitting Cascade. FXSystem=0x000001B08A25BEC0
+[2019.04.01-20.14.38:096][916]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2019.04.01-20.14.41:156][259]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
