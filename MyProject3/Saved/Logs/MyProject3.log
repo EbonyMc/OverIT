@@ -873,3 +873,36 @@ Make sure 'StupidTruck_C' has been compiled for  Get CurrentSplineDistance
 [2019.04.03-18.42.22:786][323]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/StupidTruckE1DFA1CF46F017382C5F369FE5B2CE23.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/StupidTruck.uasset'
 [2019.04.03-18.42.26:980][566]LogSlate: Window 'StupidTruck' being destroyed
 [2019.04.03-18.42.26:985][566]LogSlate: Window 'StupidTruck' being destroyed
+[2019.04.03-18.48.40:798][970]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scanner.Scanner
+[2019.04.03-18.48.44:562][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.04.03-18.48.44:945][209]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/ScannerF6CE790E4C63D54DF65A59ADF50B3FDA.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.04.03-18.49.39:413][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.04.03-18.49.39:780][959]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Scanner1A78B7B546492CB533810BBFEF28BA42.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.04.03-18.49.40:283][987]BlueprintLog: New page: Compile Scanner
+[2019.04.03-18.50.41:645][504]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Level1_Auto1A56F087C4E702E356790EDAE131C5D41.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto1.umap'
+[2019.04.03-18.50.41:670][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Level1' took 20.379
+[2019.04.03-18.50.41:670][504]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 20.379
+[2019.04.03-18.51.32:865][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.04.03-18.51.33:277][690]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Scanner65438F9E469345D5F20104893144A394.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.04.03-18.51.34:011][732]LogSlate: Window 'Scanner' being destroyed
+[2019.04.03-18.51.34:015][732]LogSlate: Window 'Scanner' being destroyed
+[2019.04.03-18.51.51:226][111]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Particles/Muney.Muney
+[2019.04.03-18.51.51:299][111]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0013 seconds. Added 2 classes and 2 folders.
+[2019.04.03-18.52.03:286][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.52.44:093][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.52.53:913][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.53.01:432][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Muney" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Muney.uasset" SILENT=true
+[2019.04.03-18.53.01:609][ 32]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Muney2A6B00514443AAACA83318A3577CD945.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Muney.uasset'
+[2019.04.03-18.53.09:046][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.53.15:441][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Muney" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Muney.uasset" SILENT=true
+[2019.04.03-18.53.15:666][192]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/MuneyD397B278491CE92E47BCFCA0CEEE1BC6.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Muney.uasset'
+[2019.04.03-18.54.51:153][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.55.04:299][644]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scanner.Scanner
+[2019.04.03-18.55.21:539][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-18.55.30:524][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-18.55.30:610][308]BlueprintLog: New page: Compile Scanner
+[2019.04.03-18.55.56:049][252]BlueprintLog: New page: Compile Scanner
+[2019.04.03-18.55.56:924][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.04.03-18.55.57:316][285]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/ScannerCB56C80A4C77DF5C517F66A4CA56098E.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.04.03-18.56.03:899][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/Muney" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Muney.uasset" SILENT=true
+[2019.04.03-18.56.04:100][828]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Muney8214204B44BB59861665C6B1969C13BD.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Muney.uasset'
