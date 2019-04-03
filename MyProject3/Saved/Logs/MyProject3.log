@@ -1968,3 +1968,18 @@ Make sure 'StupidTruck_C' has been compiled for  Get CurrentSplineDistance
 [2019.04.03-19.22.24:297][139]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Muney8115581F47A375003148A19EB85FEDA6.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Particles/Muney.uasset'
 [2019.04.03-19.22.24:873][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.04.03-19.22.25:442][273]LogCascade: Quitting Cascade. FXSystem=0x00000252140AD080
+[2019.04.03-19.35.16:912][829]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scanner.Scanner
+[2019.04.03-19.36.25:534][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Level1' took 0.070
+[2019.04.03-19.36.25:536][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Scanner] ([1] browsable assets)...
+[2019.04.03-19.36.25:553][858]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Scanner.Scanner]
+[2019.04.03-19.36.25:553][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Scanner]
+[2019.04.03-19.36.25:553][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Scanner_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.04.03-19.36.25:989][858]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Scanner_Auto4B0B7BCAE476F50E0DC73F0BC591D9F53.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Scanner_Auto4.uasset'
+[2019.04.03-19.36.26:001][858]LogFileHelpers: Auto-saving content packages took 0.467
+[2019.04.03-19.40.32:873][358]BlueprintLog: New page: Compile Scanner
+[2019.04.03-19.41.01:487][685]BlueprintLog: New page: Compile Scanner
+[2019.04.03-19.41.02:253][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.04.03-19.41.02:705][726]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Scanner722E3E0C4C59469C048C55BC8249EDEC.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.04.03-19.41.20:086][650]LogSlate: Window 'Save Content' being destroyed
+[2019.04.03-19.41.40:757][650]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Saved/Level126213B9242EE4F2D7043E086D5DCA61B.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.04.03-19.41.40:836][650]LogFileHelpers: Saving map 'Level1' took 20.730
