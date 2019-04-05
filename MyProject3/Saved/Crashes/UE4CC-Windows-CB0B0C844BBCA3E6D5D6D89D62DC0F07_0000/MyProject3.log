@@ -1,0 +1,1097 @@
+﻿Log file open, 04/04/19 22:35:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject3
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.490614
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.079s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.28.0
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.05-02.35.50:196][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.04.05-02.35.50:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.05-02.35.50:197][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.04.05-02.35.50:197][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.04.05-02.35.50:211][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.05-02.35.50:211][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.05-02.35.50:213][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.05-02.35.50:213][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.05-02.35.50:246][  0]LogHAL: Display: Platform has ~ 16 GB [17018638336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.05-02.35.50:247][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.05-02.35.50:247][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.05-02.35.50:247][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-02.35.50:247][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.05-02.35.50:248][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.05-02.35.50:248][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.05-02.35.50:249][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.05-02.35.50:249][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/FOLDER/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.04.05-02.35.50:251][  0]LogInit: Computer: MSI
+[2019.04.05-02.35.50:251][  0]LogInit: User: Gretchen
+[2019.04.05-02.35.50:251][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.04.05-02.35.50:251][  0]LogInit: High frequency timer resolution =2.156249 MHz
+[2019.04.05-02.35.50:251][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.04.05-02.35.50:251][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.05-02.35.50:251][  0]LogMemory: Process Physical Memory: 108.39 MB used, 108.39 MB peak
+[2019.04.05-02.35.50:251][  0]LogMemory: Process Virtual Memory: 100.58 MB used, 100.58 MB peak
+[2019.04.05-02.35.50:251][  0]LogMemory: Physical Memory: 3975.79 MB used,  12254.45 MB free, 16230.24 MB total
+[2019.04.05-02.35.50:251][  0]LogMemory: Virtual Memory: 4690.97 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.04.05-02.35.50:749][  0]LogInit: Using OS detected language (en-US).
+[2019.04.05-02.35.50:749][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.05-02.35.50:755][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.05-02.35.51:166][  0]LogStreaming: Display: Took  0.415s to InitEngineTextLocalization.
+[2019.04.05-02.35.51:173][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.05-02.35.51:256][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.05-02.35.51:256][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.05-02.35.51:945][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.04.05-02.35.51:945][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.05-02.35.52:165][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.04.05-02.35.52:165][  0]LogD3D11RHI:       6052/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.05-02.35.52:182][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.04.05-02.35.52:182][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.05-02.35.52:185][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.05-02.35.52:185][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.05-02.35.52:185][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.05-02.35.52:214][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.05-02.35.52:214][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.05-02.35.52:214][  0]LogWindows: EnumDisplayDevices:
+[2019.04.05-02.35.52:214][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.04.05-02.35.52:215][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.05-02.35.52:215][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.05-02.35.52:215][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.05-02.35.52:215][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.05-02.35.52:215][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.05-02.35.52:216][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.05-02.35.52:216][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.05-02.35.52:216][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.04.05-02.35.52:216][  0]LogD3D11RHI:   Driver Version: 419.35 (internal:25.21.14.1935, unified:419.35)
+[2019.04.05-02.35.52:216][  0]LogD3D11RHI:      Driver Date: 3-1-2019
+[2019.04.05-02.35.52:217][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.04.05-02.35.52:265][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.05-02.35.52:315][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.05-02.35.53:469][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.05-02.35.53:488][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.05-02.35.53:507][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.05-02.35.53:526][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.05-02.35.53:546][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.05-02.35.53:567][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.05-02.35.53:597][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.05-02.35.53:645][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.05-02.35.53:683][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:764][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-02.35.53:773][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.05-02.35.53:861][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.05-02.35.53:861][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.05-02.35.53:889][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.05-02.35.53:889][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.05-02.35.53:907][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.05-02.35.53:924][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.05-02.35.53:942][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.05-02.35.53:970][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.05-02.35.54:016][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.05-02.35.54:016][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.05-02.35.54:016][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.05-02.35.54:440][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (D:/FOLDER/OverIT/MyProject3/Intermediate/Shaders/WorkingDirectory/13540/).
+[2019.04.05-02.35.54:440][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gretchen/AppData/Local/Temp/UnrealShaderWorkingDir/FC28D2AF4782507A0C01BD8AF372860D/'.
+[2019.04.05-02.35.54:443][  0]LogXGEController: Cleaning working directory: C:/Users/Gretchen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.05-02.35.54:444][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.05-02.35.54:444][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.05-02.35.54:444][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.05-02.35.55:182][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.05-02.35.55:986][  0]LogDerivedDataCache: Loaded boot cache 0.80s 71MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.05-02.35.55:986][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.05-02.35.55:986][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/FOLDER/OverIT/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.05-02.35.55:986][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.05-02.35.55:986][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/FOLDER/OverIT/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.05-02.35.55:987][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.05-02.35.56:006][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.05-02.35.56:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.05-02.35.56:006][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.05-02.35.56:018][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gretchen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.05-02.35.56:018][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.05-02.35.56:018][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.05-02.35.56:040][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.05-02.35.56:068][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.05-02.35.56:083][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.05-02.35.56:409][  0]LogAssetRegistry: FAssetRegistry took 0.0331 seconds to start up
+[2019.04.05-02.35.56:813][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.05-02.35.57:350][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.05-02.35.57:420][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.05-02.35.57:420][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.05-02.35.57:423][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.05-02.35.57:423][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.05-02.35.57:477][  0]LogNetVersion: MyProject3 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2916331349)
+[2019.04.05-02.35.58:442][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.057889 seconds
+[2019.04.05-02.35.58:448][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.05-02.35.58:448][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.04.05-02.35.58:448][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.05-02.36.01:586][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.05-02.36.01:618][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.05-02.36.02:562][  0]SourceControl: Source control is disabled
+[2019.04.05-02.36.02:563][  0]SourceControl: Source control is disabled
+[2019.04.05-02.36.02:589][  0]SourceControl: Source control is disabled
+[2019.04.05-02.36.02:601][  0]SourceControl: Source control is disabled
+[2019.04.05-02.36.03:319][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.05-02.36.03:897][  0]LogOcInput: OculusInput pre-init called
+[2019.04.05-02.36.04:173][  0]LogEngine: Initializing Engine...
+[2019.04.05-02.36.04:192][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.04.05-02.36.04:194][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.05-02.36.04:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.05-02.36.04:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.05-02.36.04:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.05-02.36.04:412][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.05-02.36.04:483][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.05-02.36.04:509][  0]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.05-02.36.04:769][  0]LogInit: FAudioDevice initialized.
+[2019.04.05-02.36.04:769][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.05-02.36.04:897][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.05-02.36.04:905][  0]LogInit: Texture streaming: Enabled
+[2019.04.05-02.36.04:950][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.05-02.36.04:977][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.05-02.36.05:049][  0]LogInit: Transaction tracking system initialized
+[2019.04.05-02.36.05:396][  0]BlueprintLog: New page: Editor Load
+[2019.04.05-02.36.05:802][  0]LocalizationService: Localization service is disabled
+[2019.04.05-02.36.06:543][  0]LogFileCache: Scanning file cache for directory 'D:/FOLDER/OverIT/MyProject3/Content/' took 0.02s
+[2019.04.05-02.36.06:543][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.05-02.36.06:543][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.05-02.36.06:543][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.05-02.36.06:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.05-02.36.06:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.05-02.36.06:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.05-02.36.06:543][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.05-02.36.07:195][  0]SourceControl: Source control is disabled
+[2019.04.05-02.36.07:197][  0]Cmd: MAP LOAD FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.05-02.36.07:198][  0]LightingResults: New page: Lighting Build
+[2019.04.05-02.36.07:217][  0]MapCheck: New page: Map Check
+[2019.04.05-02.36.07:217][  0]LightingResults: New page: Lighting Build
+[2019.04.05-02.36.08:270][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCube3Mat'
+[2019.04.05-02.36.08:270][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_clipBoard.hs_clipBoard Referenced by Clip_GEN_VARIABLE
+[2019.04.05-02.36.08:270][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCube3Mat' while loading D:/FOLDER/OverIT/MyProject3/Content/Geometry/Objects/hs_clipBoard.uasset.
+[2019.04.05-02.36.08:270][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_clipBoard.hs_clipBoard Referenced by Clip_GEN_VARIABLE
+[2019.04.05-02.36.08:270][  0]LoadErrors: Error: /Game/Geometry/Objects/hs_clipBoard : Can't find file for asset. /Game/Geometry/Objects/pCube3Mat
+[2019.04.05-02.36.08:270][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCube3Mat'
+[2019.04.05-02.36.08:270][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_clipBoard.hs_clipBoard Referenced by Clip_GEN_VARIABLE
+[2019.04.05-02.36.08:270][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCube3Mat' while loading D:/FOLDER/OverIT/MyProject3/Content/Geometry/Objects/hs_clipBoard.uasset.
+[2019.04.05-02.36.08:270][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_clipBoard.hs_clipBoard Referenced by Clip_GEN_VARIABLE
+[2019.04.05-02.36.08:271][  0]LoadErrors: Error: /Game/Geometry/Objects/hs_clipBoard : Can't find file for asset. /Game/Geometry/Objects/pCube3Mat
+[2019.04.05-02.36.08:283][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCylinder2Mat'
+[2019.04.05-02.36.08:283][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_Pen.hs_Pen Referenced by Pen_GEN_VARIABLE
+[2019.04.05-02.36.08:283][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCylinder2Mat' while loading D:/FOLDER/OverIT/MyProject3/Content/Geometry/Objects/hs_Pen.uasset.
+[2019.04.05-02.36.08:283][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_Pen.hs_Pen Referenced by Pen_GEN_VARIABLE
+[2019.04.05-02.36.08:283][  0]LoadErrors: Error: /Game/Geometry/Objects/hs_Pen : Can't find file for asset. /Game/Geometry/Objects/pCylinder2Mat
+[2019.04.05-02.36.08:284][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCylinder2Mat'
+[2019.04.05-02.36.08:284][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_Pen.hs_Pen Referenced by Pen_GEN_VARIABLE
+[2019.04.05-02.36.08:284][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCylinder2Mat' while loading D:/FOLDER/OverIT/MyProject3/Content/Geometry/Objects/hs_Pen.uasset.
+[2019.04.05-02.36.08:284][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_Pen.hs_Pen Referenced by Pen_GEN_VARIABLE
+[2019.04.05-02.36.08:284][  0]LoadErrors: Error: /Game/Geometry/Objects/hs_Pen : Can't find file for asset. /Game/Geometry/Objects/pCylinder2Mat
+[2019.04.05-02.36.09:344][  0]LogTexture: Display: Building textures: hs_dollarmoneycash-01 (AutoDXT, 256X256)
+[2019.04.05-02.36.09:344][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCylinder2Mat'
+[2019.04.05-02.36.09:344][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCylinder2Mat.pCylinder2Mat Referenced by hs_Pen
+[2019.04.05-02.36.09:344][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCylinder2Mat' while loading NULL.
+[2019.04.05-02.36.09:344][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCylinder2Mat.pCylinder2Mat Referenced by hs_Pen
+[2019.04.05-02.36.09:344][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCylinder2Mat'
+[2019.04.05-02.36.09:344][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCylinder2Mat.pCylinder2Mat Referenced by hs_Pen
+[2019.04.05-02.36.09:344][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCylinder2Mat' while loading NULL.
+[2019.04.05-02.36.09:344][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCylinder2Mat.pCylinder2Mat Referenced by hs_Pen
+[2019.04.05-02.36.09:345][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCube3Mat'
+[2019.04.05-02.36.09:345][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCube3Mat.pCube3Mat Referenced by hs_clipBoard
+[2019.04.05-02.36.09:345][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCube3Mat' while loading NULL.
+[2019.04.05-02.36.09:345][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCube3Mat.pCube3Mat Referenced by hs_clipBoard
+[2019.04.05-02.36.09:345][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCube3Mat'
+[2019.04.05-02.36.09:345][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCube3Mat.pCube3Mat Referenced by hs_clipBoard
+[2019.04.05-02.36.09:345][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCube3Mat' while loading NULL.
+[2019.04.05-02.36.09:345][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCube3Mat.pCube3Mat Referenced by hs_clipBoard
+[2019.04.05-02.36.09:527][  0]LogMaterial: Display: Missing cached shader map for material Mon, compiling. 
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.05-02.36.09:635][  0]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.05-02.36.09:656][  0]LogMaterial: Display: Missing cached shader map for material confettiShapes_Mat, compiling. 
+[2019.04.05-02.36.09:766][  0]LoadErrors: Warning: hs_slideDoor_Left Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:769][  0]LoadErrors: Warning: hs_slideDoor_Right Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:781][  0]LoadErrors: Warning: hs_shopcartWide Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:785][  0]LoadErrors: Warning: hs_cake Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:807][  0]LoadErrors: Warning: hs_concreteBumper Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:810][  0]LoadErrors: Warning: hs_groundPlane Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:816][  0]LoadErrors: Warning: hs_lampTree Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:824][  0]LoadErrors: Warning: HS_ObservationDeck Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:827][  0]LoadErrors: Warning: hs_parkingMedian Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:831][  0]LoadErrors: Warning: hs_poster Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:846][  0]LoadErrors: Warning: pipe Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.09:865][  0]LoadErrors: Warning: skybox2 Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.10:018][  0]LoadErrors: Warning: hs_vase Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.10:056][  0]LoadErrors: Warning: hs_diamond Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.10:539][  0]LoadErrors: Warning: hs_Pen Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.10:545][  0]LoadErrors: Warning: hs_clipBoard Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.04.05-02.36.11:304][  0]LogAIModule: Creating AISystem for world Level1
+[2019.04.05-02.36.11:378][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.04.05-02.36.11:378][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.04.05-02.36.11:440][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.05-02.36.11:506][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.05-02.36.11:507][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.381ms to complete.
+[2019.04.05-02.36.11:507][  0]LogFileHelpers: Loading map 'Level1' took 4.311
+[2019.04.05-02.36.11:725][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-02.36.11:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-02.36.11:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-02.36.11:762][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-02.36.11:806][  0]LogCollectionManager: Loaded 0 collections in 0.003252 seconds
+[2019.04.05-02.36.11:857][  0]LogFileCache: Scanning file cache for directory 'D:/FOLDER/OverIT/MyProject3/Saved/Collections/' took 0.01s
+[2019.04.05-02.36.11:857][  0]LogFileCache: Scanning file cache for directory 'D:/FOLDER/OverIT/MyProject3/Content/Developers/Gretchen/Collections/' took 0.01s
+[2019.04.05-02.36.11:857][  0]LogFileCache: Scanning file cache for directory 'D:/FOLDER/OverIT/MyProject3/Content/Collections/' took 0.00s
+[2019.04.05-02.36.11:857][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.05-02.36.11:874][  0]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2651 classes and 620 folders.
+[2019.04.05-02.36.11:891][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.05-02.36.11:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:976][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.11:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-02.36.12:204][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.04.05-02.36.12:241][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.04.05-02.36.12:626][  0]LogSlate: Took 0.009686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.05-02.36.12:639][  0]LogSlate: Took 0.009969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.05-02.36.12:683][  0]LogSlate: Took 0.028801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.05-02.36.12:896][  0]LogRenderer: Reallocating scene render targets to support 916x396 Format 26 NumSamples 1 (Frame:1).
+[2019.04.05-02.36.13:069][  0]LogSlate: Took 0.002167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.05-02.36.13:291][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.05-02.36.13:291][  0]LogLoad: (Engine Initialization) Total time: 30.18 seconds
+[2019.04.05-02.36.13:291][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.05-02.36.13:435][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.05-02.36.13:442][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-02.36.13:739][  1]LogRenderer: Reallocating scene render targets to support 916x416 Format 26 NumSamples 1 (Frame:3).
+[2019.04.05-02.36.14:618][  9]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.05-02.36.14:653][ 10]LogAssetRegistry: Asset discovery search completed in 18.2658 seconds
+[2019.04.05-02.36.14:657][ 10]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.05-02.36.14:657][ 10]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000119 seconds (updated 0 objects)
+[2019.04.05-02.36.14:763][ 10]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.04.05-02.36.14:834][ 11]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.04.05-02.36.15:462][ 30]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.04.05-02.36.15:995][ 42]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.04.05-02.36.16:157][ 45]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.04.05-02.36.16:480][ 53]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.04.05-02.36.16:927][ 66]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.04.05-02.36.17:294][ 77]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.04.05-02.36.17:476][ 83]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.04.05-02.36.18:487][116]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.04.05-02.36.18:929][130]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.05-02.36.19:544][149]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.05-02.36.19:728][155]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.05-02.41.24:035][940]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-02.41.24:040][940]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-02.53.46:090][235]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.05-02.54.34:314][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-02.54.34:422][460]LogRenderer: Reallocating scene render targets to support 1152x416 Format 26 NumSamples 1 (Frame:37445).
+[2019.04.05-02.57.49:703][163]LogSlate: Window 'Modes' being destroyed
+[2019.04.05-03.05.10:433][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.05.17:191][751]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-03.05.44:022][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_groundPlane7)
+[2019.04.05-03.05.44:571][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.05.49:405][568]LogRenderer: Reallocating scene render targets to support 1152x428 Format 26 NumSamples 1 (Frame:70931).
+[2019.04.05-03.05.49:455][569]LogRenderer: Reallocating scene render targets to support 1152x436 Format 26 NumSamples 1 (Frame:70933).
+[2019.04.05-03.05.49:577][574]LogRenderer: Reallocating scene render targets to support 1152x440 Format 26 NumSamples 1 (Frame:70937).
+[2019.04.05-03.06.15:155][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.05-03.06.16:097][104]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level1_Auto150A3BF9F418A2D610DE0DE98C366B835.tmp' to 'D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto1.umap'
+[2019.04.05-03.06.16:103][104]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Level1' took 0.976
+[2019.04.05-03.06.16:103][104]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.976
+[2019.04.05-03.06.57:890][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.07.08:880][265]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/StupidTruck.StupidTruck
+[2019.04.05-03.07.09:287][265]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.04.05-03.07.10:236][265]LogSlate: Took 0.002138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.05-03.07.10:340][266]LogSlate: Took 0.002310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.05-03.07.26:523][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.07.26:657][235]LogSlate: Window 'StupidTruck' being destroyed
+[2019.04.05-03.07.26:661][235]LogSlate: Window 'StupidTruck' being destroyed
+[2019.04.05-03.07.37:670][887]Cmd: DELETE
+[2019.04.05-03.07.37:670][887]Cmd: ACTOR DELETE
+[2019.04.05-03.07.37:735][887]LogEditorActor: Deleted Actor: StupidTruck_C
+[2019.04.05-03.07.37:765][887]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.04.05-03.07.46:039][380]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.04.05-03.07.47:709][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-03.07.51:948][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.07.52:031][733]LogTemp: Repeating last play command: Simulate
+[2019.04.05-03.07.52:042][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.07.52:042][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-03.07.52:048][733]PIE: New page: SIE session: Level1 (Apr 4, 2019, 7:07:52 PM)
+[2019.04.05-03.07.52:063][733]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.05-03.07.52:118][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054652s)
+[2019.04.05-03.07.52:118][733]LogAIModule: Creating AISystem for world Level1
+[2019.04.05-03.07.52:118][733]LogPlayLevel: PIE: World Init took: (0.000488s)
+[2019.04.05-03.07.52:118][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.055512s)
+[2019.04.05-03.07.52:148][733]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.05-03.07.52:235][733]LogInit: FAudioDevice initialized.
+[2019.04.05-03.07.52:283][733]LogLoad: Game class is 'GameModeBase'
+[2019.04.05-03.07.52:303][733]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.04.04-23.07.52
+[2019.04.05-03.07.52:334][733]LogWorld: Bringing up level for play took: 0.048448
+[2019.04.05-03.07.52:348][733]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.05-03.07.52:357][733]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.04.05-03.07.52:365][733]Cmd: vr.bEnableStereo True
+[2019.04.05-03.07.52:365][733]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.05-03.07.52:377][733]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.479
+[2019.04.05-03.07.52:424][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.07.53:100][767]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.05-03.07.53:100][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.05-03.07.56:674][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.07.56:776][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.07.56:776][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-03.07.56:822][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-03.07.56:822][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.07.56:852][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-03.07.56:888][988]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.05-03.07.58:374][ 67]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-03.07.58:379][ 67]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-03.08.01:031][226]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.04.05-03.08.04:054][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.08.10:388][786]LogEditorViewport: Clicking on Actor (LMB): CartCheck_C (CartCheck)
+[2019.04.05-03.08.10:524][793]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2019.04.05-03.08.12:754][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.08.12:861][932]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartCheck.CartCheck
+[2019.04.05-03.08.31:006][998]BlueprintLog: New page: Compile CartCheck
+[2019.04.05-03.08.32:213][ 58]LogSlate: Window 'CartCheck*' being destroyed
+[2019.04.05-03.08.32:217][ 58]LogSlate: Window 'CartCheck*' being destroyed
+[2019.04.05-03.08.35:034][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.08.37:458][368]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartCheck.CartCheck
+[2019.04.05-03.08.40:693][543]LogSlate: Window 'CartCheck*' being destroyed
+[2019.04.05-03.08.40:697][543]LogSlate: Window 'CartCheck*' being destroyed
+[2019.04.05-03.08.46:775][904]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpawn.CartSpawn
+[2019.04.05-03.08.53:412][280]BlueprintLog: New page: Compile CartSpawn
+[2019.04.05-03.08.56:114][421]LogTemp: Repeating last play command: Simulate
+[2019.04.05-03.08.56:131][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.08.56:131][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-03.08.56:131][421]PIE: New page: SIE session: Level1 (Apr 4, 2019, 7:08:56 PM)
+[2019.04.05-03.08.56:131][421]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.05-03.08.56:186][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054624s)
+[2019.04.05-03.08.56:187][421]LogAIModule: Creating AISystem for world Level1
+[2019.04.05-03.08.56:187][421]LogPlayLevel: PIE: World Init took: (0.000429s)
+[2019.04.05-03.08.56:187][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.055262s)
+[2019.04.05-03.08.56:218][421]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.05-03.08.56:305][421]LogInit: FAudioDevice initialized.
+[2019.04.05-03.08.56:337][421]LogLoad: Game class is 'GameModeBase'
+[2019.04.05-03.08.56:354][421]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.04.04-23.08.56
+[2019.04.05-03.08.56:356][421]LogWorld: Bringing up level for play took: 0.018419
+[2019.04.05-03.08.56:368][421]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.05-03.08.56:370][421]Cmd: vr.bEnableStereo True
+[2019.04.05-03.08.56:370][421]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.05-03.08.56:372][421]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.484
+[2019.04.05-03.08.56:378][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.08.57:130][466]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.05-03.08.57:130][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.05-03.09.02:356][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.09.02:441][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.09.02:441][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-03.09.02:483][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-03.09.02:483][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.09.02:516][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-03.09.02:557][785]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.05-03.09.03:954][863]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-03.09.03:957][863]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-03.09.06:754][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-03.09.20:979][650]BlueprintLog: New page: Compile CartSpawn
+[2019.04.05-03.09.30:513][206]LogEditorViewport: Clicking on Actor (LMB): TutorailCarts_C (TutorailCarts2)
+[2019.04.05-03.09.32:595][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.09.33:083][358]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TutorailCarts.TutorailCarts
+[2019.04.05-03.09.37:193][584]LogSlate: Window 'TutorailCarts' being destroyed
+[2019.04.05-03.09.37:197][584]LogSlate: Window 'TutorailCarts' being destroyed
+[2019.04.05-03.09.37:262][584]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.05-03.09.39:118][688]LogEditorViewport: Clicking on Actor (LMB): TutorailCarts_C (TutorailCarts)
+[2019.04.05-03.09.42:358][877]LogEditorViewport: Clicking on Actor (LMB): TutorailCarts_C (TutorailCarts2)
+[2019.04.05-03.09.44:368][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.09.44:474][  1]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TutorailCarts.TutorailCarts
+[2019.04.05-03.09.46:100][ 79]LogSlate: Window 'TutorailCarts' being destroyed
+[2019.04.05-03.09.46:103][ 79]LogSlate: Window 'TutorailCarts' being destroyed
+[2019.04.05-03.09.47:770][176]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.04.05-03.09.51:345][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.09.51:850][417]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.04.05-03.10.03:581][ 69]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.04.05-03.10.05:523][142]LogTemp: Repeating last play command: Simulate
+[2019.04.05-03.10.05:552][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.10.05:552][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-03.10.05:552][142]PIE: New page: SIE session: Level1 (Apr 4, 2019, 7:10:05 PM)
+[2019.04.05-03.10.05:552][142]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.05-03.10.05:607][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054528s)
+[2019.04.05-03.10.05:607][142]LogAIModule: Creating AISystem for world Level1
+[2019.04.05-03.10.05:607][142]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.04.05-03.10.05:607][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.055186s)
+[2019.04.05-03.10.05:671][142]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.05-03.10.05:759][142]LogInit: FAudioDevice initialized.
+[2019.04.05-03.10.05:791][142]LogLoad: Game class is 'GameModeBase'
+[2019.04.05-03.10.05:809][142]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.04.04-23.10.05
+[2019.04.05-03.10.05:811][142]LogWorld: Bringing up level for play took: 0.018494
+[2019.04.05-03.10.05:822][142]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.05-03.10.05:823][142]Cmd: vr.bEnableStereo True
+[2019.04.05-03.10.05:823][142]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.05-03.10.05:825][142]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.97
+[2019.04.05-03.10.05:859][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.10.06:532][179]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.05-03.10.06:532][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.05-03.10.15:747][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.10.15:848][737]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.10.15:849][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-03.10.15:894][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-03.10.15:894][737]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.10.15:929][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-03.10.15:965][738]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.04.05-03.10.16:953][790]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-03.10.16:957][790]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-03.10.31:146][536]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.04.05-03.10.33:625][649]LogEditorViewport: Clicking on Actor (LMB): TutorailCarts_C (TutorailCarts2)
+[2019.04.05-03.10.41:099][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-03.10.44:555][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.10.44:655][296]LogTemp: Repeating last play command: Simulate
+[2019.04.05-03.10.44:682][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.10.44:682][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-03.10.44:682][296]PIE: New page: SIE session: Level1 (Apr 4, 2019, 7:10:44 PM)
+[2019.04.05-03.10.44:682][296]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.05-03.10.44:738][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055136s)
+[2019.04.05-03.10.44:738][296]LogAIModule: Creating AISystem for world Level1
+[2019.04.05-03.10.44:738][296]LogPlayLevel: PIE: World Init took: (0.000437s)
+[2019.04.05-03.10.44:738][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.055792s)
+[2019.04.05-03.10.44:775][296]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.05-03.10.44:863][296]LogInit: FAudioDevice initialized.
+[2019.04.05-03.10.44:897][296]LogLoad: Game class is 'GameModeBase'
+[2019.04.05-03.10.44:915][296]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.04.04-23.10.44
+[2019.04.05-03.10.44:917][296]LogWorld: Bringing up level for play took: 0.018620
+[2019.04.05-03.10.44:931][296]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.05-03.10.44:932][296]Cmd: vr.bEnableStereo True
+[2019.04.05-03.10.44:932][296]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.05-03.10.44:934][296]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.078
+[2019.04.05-03.10.44:941][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.10.45:668][328]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.05-03.10.45:668][328]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.05-03.10.45:854][339]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box6)
+[2019.04.05-03.10.45:910][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-03.10.46:744][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Convey22)
+[2019.04.05-03.10.47:616][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.10.47:719][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.10.47:720][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-03.10.47:761][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-03.10.47:761][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.05-03.10.47:791][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-03.10.47:826][437]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.04.05-03.10.49:162][506]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-03.10.49:166][506]LogSlate: Window 'Message Log' being destroyed
+[2019.04.05-03.10.49:495][526]Cmd: TRANSACTION UNDO
+[2019.04.05-03.10.49:495][526]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.05-03.10.51:643][654]LogEditorViewport: Clicking on Actor (LMB): TutorailCarts_C (TutorailCarts2)
+[2019.04.05-03.10.53:146][741]Cmd: TRANSACTION UNDO
+[2019.04.05-03.10.53:146][741]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.05-03.10.53:547][760]Cmd: TRANSACTION UNDO
+[2019.04.05-03.10.53:547][760]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.04.05-03.10.54:706][824]LogEditorViewport: Clicking on Actor (LMB): TutorailCarts_C (TutorailCarts2)
+[2019.04.05-03.10.55:738][884]Cmd: TRANSACTION UNDO
+[2019.04.05-03.10.55:738][884]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.05-03.10.56:009][900]Cmd: TRANSACTION UNDO
+[2019.04.05-03.10.56:009][900]LogEditorTransaction: Undo Edit Cart Point
+[2019.04.05-03.10.56:233][913]Cmd: TRANSACTION UNDO
+[2019.04.05-03.10.56:233][913]LogEditorTransaction: Undo Move Actors
+[2019.04.05-03.10.56:408][923]Cmd: TRANSACTION UNDO
+[2019.04.05-03.10.56:408][923]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.05-03.10.56:602][933]Cmd: TRANSACTION UNDO
+[2019.04.05-03.10.56:602][933]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.05-03.10.57:635][995]LogEditorViewport: Clicking on Actor (LMB): TutorailCarts_C (TutorailCarts2)
+[2019.04.05-03.10.57:949][ 12]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2019.04.05-03.11.00:671][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-03.11.00:686][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.05-03.11.01:680][171]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level1682AC46245B208B60A21F994933EABA1.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.04.05-03.11.01:705][171]LogFileHelpers: Saving map 'Level1' took 1.020
+[2019.04.05-03.11.01:716][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/MotionControllerPawn" FILE="D:/FOLDER/OverIT/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" SILENT=true
+[2019.04.05-03.11.01:825][171]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/MotionControllerPawn48B789CD403B9D0C2ED1DE955C0EDB33.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.04.05-03.11.01:829][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartCheck" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/CartCheck.uasset" SILENT=true
+[2019.04.05-03.11.01:840][171]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/CartCheck8252F3F24FD8432976FF47ACC55265D2.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/CartCheck.uasset'
+[2019.04.05-03.11.01:844][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.04.05-03.11.01:891][171]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/CartSpawn15B085C14FE7E67428E4B68A2AAEC26B.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.04.05-03.11.05:875][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.11.13:443][856]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline2)
+[2019.04.05-03.11.15:098][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.11.15:926][  3]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.05-03.11.24:264][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (skybox2)
+[2019.04.05-03.11.25:251][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (skybox2)
+[2019.04.05-03.11.25:758][588]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline2)
+[2019.04.05-03.11.46:773][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.11.46:896][846]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpline.CartSpline
+[2019.04.05-03.12.06:757][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.12.48:204][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-03.12.56:682][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.14.29:031][ 60]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.04.05-03.14.41:186][717]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.04.05-03.14.46:951][ 62]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Truckfollowspline/Spline.Spline
+[2019.04.05-03.14.50:401][245]PIE: Warning: AttachTo: '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.14.50:422][245]PIE: Warning: AttachTo: '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.00:441][827]BlueprintLog: New page: Compile Spline
+[2019.04.05-03.15.00:444][827]PIE: Warning: AttachTo: '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.00:600][827]PIE: Warning: AttachTo: '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.00:602][827]PIE: Warning: AttachTo: '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.00:618][827]PIE: Warning: AttachTo: '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_20:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.03:949][ 24]LogSlate: Window 'Spline*' being destroyed
+[2019.04.05-03.15.03:955][ 24]LogSlate: Window 'Spline*' being destroyed
+[2019.04.05-03.15.04:019][ 24]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.05-03.15.04:094][ 24]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.05-03.15.05:990][135]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Truckfollowspline/Spline.Spline
+[2019.04.05-03.15.06:238][135]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.25:867][239]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.27:234][319]LogEditorTransaction: Undo Add Variable
+[2019.04.05-03.15.27:234][319]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.27:236][319]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.34:645][759]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.15.45:514][406]LogSlate: Took 0.010836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.05-03.15.56:065][ 39]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.12:752][ 35]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.15:498][199]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.30:950][119]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.33:223][253]BlueprintLog: New page: Compile Spline
+[2019.04.05-03.16.33:227][253]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.33:380][253]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.33:383][253]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.36:894][462]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.37:989][526]BlueprintLog: New page: Compile Spline
+[2019.04.05-03.16.37:994][526]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.38:139][526]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.38:142][526]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.47:962][109]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.16.52:800][393]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.17.02:676][983]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.17.05:871][174]BlueprintLog: New page: Compile Spline
+[2019.04.05-03.17.05:874][174]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.17.06:024][174]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.17.06:027][174]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Spline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.17.12:248][546]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Truckfollowspline/truck.truck
+[2019.04.05-03.17.31:769][696]LogEditorTransaction: Undo Add New Function
+[2019.04.05-03.17.34:858][878]LogEditorTransaction: Undo Add New Function
+[2019.04.05-03.17.37:142][ 12]LogEditorTransaction: Undo Add New Function
+[2019.04.05-03.17.56:740][110]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.17.56:886][110]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.17.56:889][110]PIE: Warning: AttachTo: '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_21:PersistentLevel.Spline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.17.56:890][110]LogMetaData: Removing '/Game/Blueprints/Truckfollowspline/Splineline.Splineline:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Truckfollowspline/Spline.PackageMetaData'
+[2019.04.05-03.17.56:890][110]LogMetaData: Removing '/Game/Blueprints/Truckfollowspline/Splineline.SKEL_Splineline_C' ref from Metadata '/Game/Blueprints/Truckfollowspline/Spline.PackageMetaData'
+[2019.04.05-03.17.56:891][110]LogMetaData: Removing '/Game/Blueprints/Truckfollowspline/Splineline.Splineline_C' ref from Metadata '/Game/Blueprints/Truckfollowspline/Spline.PackageMetaData'
+[2019.04.05-03.17.56:891][110]LogMetaData: Removing '/Game/Blueprints/Truckfollowspline/Splineline.Splineline:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Truckfollowspline/Spline.PackageMetaData'
+[2019.04.05-03.17.56:891][110]LogMetaData: Removing '/Game/Blueprints/Truckfollowspline/Splineline.Splineline:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Truckfollowspline/Spline.PackageMetaData'
+[2019.04.05-03.17.56:891][110]LogMetaData: Removing '/Game/Blueprints/Truckfollowspline/Splineline.Splineline:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Truckfollowspline/Spline.PackageMetaData'
+[2019.04.05-03.17.56:934][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Truckfollowspline/Splineline" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Truckfollowspline/Splineline.uasset" SILENT=true
+[2019.04.05-03.17.56:942][110]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Splineline42B44FB148926B408EE5AAB436CC3DA7.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Truckfollowspline/Splineline.uasset'
+[2019.04.05-03.18.27:608][898]BlueprintLog: New page: Compile truck
+[2019.04.05-03.19.03:102][996]BlueprintLog: New page: Compile truck
+[2019.04.05-03.21.00:956][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.05-03.21.01:909][ 45]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level1_Auto2AA7031A545B8036CD60C7189F3282871.tmp' to 'D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto2.umap'
+[2019.04.05-03.21.01:912][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Level1' took 0.982
+[2019.04.05-03.21.01:912][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.982
+[2019.04.05-03.21.01:919][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Truckfollowspline/truck] ([1] browsable assets)...
+[2019.04.05-03.21.01:919][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Truckfollowspline/truck]
+[2019.04.05-03.21.01:919][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Truckfollowspline/truck" FILE="D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Truckfollowspline/truck_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.04.05-03.21.01:928][ 45]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/truck_Auto2995C65404DC45A14758BD991B8E30AA4.tmp' to 'D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Truckfollowspline/truck_Auto2.uasset'
+[2019.04.05-03.21.01:929][ 45]LogFileHelpers: Auto-saving content packages took 0.010
+[2019.04.05-03.27.40:140][494]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.05-03.44.21:876][863]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpline.CartSpline
+[2019.04.05-03.44.38:969][868]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.04.05-03.44.40:107][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-03.44.40:212][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpline.CartSpline
+[2019.04.05-03.44.43:215][104]LogSlate: Window 'CartSpline' being destroyed
+[2019.04.05-03.44.43:221][104]LogSlate: Window 'CartSpline' being destroyed
+[2019.04.05-03.44.43:282][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.05-03.44.43:342][104]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.05-03.44.52:348][641]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpawn.CartSpawn
+[2019.04.05-03.44.59:404][ 46]LogSlate: Window 'CartSpawn' being destroyed
+[2019.04.05-03.45.06:956][494]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Truckfollowspline/Splineline.Splineline
+[2019.04.05-03.45.07:215][494]PIE: Warning: AttachTo: '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.45.11:041][721]PIE: Warning: AttachTo: '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.45.12:708][821]BlueprintLog: New page: Compile Splineline
+[2019.04.05-03.45.12:711][821]PIE: Warning: AttachTo: '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.45.12:864][821]PIE: Warning: AttachTo: '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.45.12:866][821]PIE: Warning: AttachTo: '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_26:PersistentLevel.Splineline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.45.30:614][885]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Truckfollowspline/truck.truck
+[2019.04.05-03.45.50:743][ 75]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.04.05-03.46.38:053][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Level1' took 0.026
+[2019.04.05-03.46.38:054][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ShoppingCarts] ([1] browsable assets)...
+[2019.04.05-03.46.38:066][796]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts]
+[2019.04.05-03.46.38:066][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ShoppingCarts]
+[2019.04.05-03.46.38:066][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/ShoppingCarts_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.04.05-03.46.38:109][796]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/ShoppingCarts_Auto38A186EA543D4B6A72365A28D92610C74.tmp' to 'D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/ShoppingCarts_Auto3.uasset'
+[2019.04.05-03.46.38:110][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Truckfollowspline/truck] ([1] browsable assets)...
+[2019.04.05-03.46.38:110][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Truckfollowspline/truck]
+[2019.04.05-03.46.38:110][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Truckfollowspline/truck" FILE="D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Truckfollowspline/truck_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.04.05-03.46.38:403][796]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/truck_Auto353C5857F44EDB5BEFF118E99C0AE1F1E.tmp' to 'D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Truckfollowspline/truck_Auto3.uasset'
+[2019.04.05-03.46.38:403][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Truckfollowspline/Splineline] ([1] browsable assets)...
+[2019.04.05-03.46.38:403][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Truckfollowspline/Splineline]
+[2019.04.05-03.46.38:410][796]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Splineline_Auto3716F46824C829FC8D406E987BBA66D6F.tmp' to 'D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Truckfollowspline/Splineline_Auto3.uasset'
+[2019.04.05-03.46.38:410][796]LogFileHelpers: Auto-saving content packages took 0.357
+[2019.04.05-03.47.17:280][117]BlueprintLog: New page: Compile truck
+[2019.04.05-03.47.17:289][117]LogBlueprint: Warning: [Compiler truck] Could not find a variable named "Distance" in 'truck_C'.
+Make sure 'truck_C' has been compiled for  Get Distance
+[2019.04.05-03.47.17:289][117]LogBlueprint: Warning: [Compiler truck] Could not find a variable named "Distance" in 'truck_C'.
+Make sure 'truck_C' has been compiled for  Get Distance
+[2019.04.05-03.47.17:289][117]LogBlueprint: Error: [Compiler truck] This blueprint (self) is not a CartSpline_C, therefore ' Target ' must have a connection.
+[2019.04.05-03.47.17:289][117]LogBlueprint: Error: [Compiler truck] This blueprint (self) is not a CartSpline_C, therefore ' Target ' must have a connection.
+[2019.04.05-03.47.17:289][117]LogBlueprint: Error: [Compiler truck] The property associated with  Distance  could not be found in '/Game/Blueprints/Truckfollowspline/truck.truck_C'
+[2019.04.05-03.47.17:289][117]LogBlueprint: Error: [Compiler truck] The property associated with  Distance  could not be found in '/Game/Blueprints/Truckfollowspline/truck.truck_C'
+[2019.04.05-03.47.17:290][117]LogBlueprint: Error: [Compiler truck] Variable node  Get Spline  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.04.05-03.47.17:290][117]LogBlueprint: Error: [Compiler truck] Variable node  Get Spline  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.04.05-03.47.17:444][117]LogBlueprint: Warning: [Compiler truck] [4294.34] Compile of truck failed. 6 Fatal Issue(s) 2 Warning(s) [in 163 ms] (/Game/Blueprints/Truckfollowspline/truck.truck)
+[2019.04.05-03.47.23:151][457]BlueprintLog: New page: Compile truck
+[2019.04.05-03.47.23:159][457]LogBlueprint: Warning: [Compiler truck] Could not find a variable named "Distance" in 'truck_C'.
+Make sure 'truck_C' has been compiled for  Get Distance
+[2019.04.05-03.47.23:159][457]LogBlueprint: Warning: [Compiler truck] Could not find a variable named "Distance" in 'truck_C'.
+Make sure 'truck_C' has been compiled for  Get Distance
+[2019.04.05-03.47.23:159][457]LogBlueprint: Error: [Compiler truck] This blueprint (self) is not a SplineComponent, therefore ' Target ' must have a connection.
+[2019.04.05-03.47.23:159][457]LogBlueprint: Error: [Compiler truck] This blueprint (self) is not a SplineComponent, therefore ' Target ' must have a connection.
+[2019.04.05-03.47.23:159][457]LogBlueprint: Error: [Compiler truck] The property associated with  Distance  could not be found in '/Game/Blueprints/Truckfollowspline/truck.truck_C'
+[2019.04.05-03.47.23:160][457]LogBlueprint: Error: [Compiler truck] The property associated with  Distance  could not be found in '/Game/Blueprints/Truckfollowspline/truck.truck_C'
+[2019.04.05-03.47.23:320][457]LogBlueprint: Warning: [Compiler truck] [4300.21] Compile of truck failed. 4 Fatal Issue(s) 2 Warning(s) [in 169 ms] (/Game/Blueprints/Truckfollowspline/truck.truck)
+[2019.04.05-03.47.38:573][266]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.04.05-03.47.44:564][606]BlueprintLog: New page: Compile truck
+[2019.04.05-03.47.44:573][606]LogBlueprint: Warning: [Compiler truck] Could not find a variable named "Distance" in 'truck_C'.
+Make sure 'truck_C' has been compiled for  Get Distance
+[2019.04.05-03.47.44:573][606]LogBlueprint: Warning: [Compiler truck] Could not find a variable named "Distance" in 'truck_C'.
+Make sure 'truck_C' has been compiled for  Get Distance
+[2019.04.05-03.47.44:574][606]LogBlueprint: Error: [Compiler truck] This blueprint (self) is not a SplineComponent, therefore ' Target ' must have a connection.
+[2019.04.05-03.47.44:574][606]LogBlueprint: Error: [Compiler truck] This blueprint (self) is not a SplineComponent, therefore ' Target ' must have a connection.
+[2019.04.05-03.47.44:574][606]LogBlueprint: Error: [Compiler truck] The property associated with  Distance  could not be found in '/Game/Blueprints/Truckfollowspline/truck.truck_C'
+[2019.04.05-03.47.44:574][606]LogBlueprint: Error: [Compiler truck] The property associated with  Distance  could not be found in '/Game/Blueprints/Truckfollowspline/truck.truck_C'
+[2019.04.05-03.47.44:729][606]LogBlueprint: Warning: [Compiler truck] [4321.62] Compile of truck failed. 4 Fatal Issue(s) 2 Warning(s) [in 165 ms] (/Game/Blueprints/Truckfollowspline/truck.truck)
+[2019.04.05-03.48.15:284][331]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.05-03.48.15:290][331]LogSlate: Window 'Splineline*' being destroyed
+[2019.04.05-03.48.15:293][331]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.05-03.48.15:353][331]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.05-03.48.21:277][473]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.04.05-03.48.24:706][678]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Truckfollowspline/truck.truck
+[2019.04.05-03.49.10:754][380]BlueprintLog: New page: Compile truck
+[2019.04.05-03.49.32:012][644]LogEditorTransaction: Undo Paste clipboard contents
+[2019.04.05-03.50.34:963][307]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.04.05-03.51.05:796][101]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Truckfollowspline/Splineline.Splineline
+[2019.04.05-03.51.06:033][101]PIE: Warning: AttachTo: '/Engine/Transient.World_30:PersistentLevel.Splineline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_30:PersistentLevel.Splineline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.51.09:711][316]PIE: Warning: AttachTo: '/Engine/Transient.World_30:PersistentLevel.Splineline_C_0.DefaultSceneRoot' is not static  (in blueprint "Splineline"), cannot attach '/Engine/Transient.World_30:PersistentLevel.Splineline_C_0.SplineMesh' which is static to it. Aborting.
+[2019.04.05-03.51.13:759][552]LogBlueprint: Warning: [Compiler Splineline] Invalid property 'NewVar_0' class, replaced with Object.  Please fix or remove.
+[2019.04.05-03.51.13:759][552]LogBlueprint: Warning: [Compiler Splineline] [4530.65] Compile of Splineline successful, but with 1 Warning(s) [in 0 ms] (/Game/Blueprints/Truckfollowspline/Splineline.Splineline)
+[2019.04.05-03.51.15:911][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.05-03.51.18:823][851]LogBlueprint: Warning: [Compiler Splineline] Invalid property 'NewVar_0' class, replaced with Object.  Please fix or remove.
+[2019.04.05-03.51.18:823][851]LogBlueprint: Warning: [Compiler Splineline] [4535.72] Compile of Splineline successful, but with 1 Warning(s) [in 0 ms] (/Game/Blueprints/Truckfollowspline/Splineline.Splineline)
+[2019.04.05-03.51.24:063][149]BlueprintLog: New page: Compile Splineline
+[2019.04.05-03.51.24:064][149]LogBlueprint: Warning: [Compiler Splineline] Invalid property 'NewVar_0' class, replaced with Object.  Please fix or remove.
+[2019.04.05-03.51.24:065][149]LogBlueprint: Warning: [Compiler Splineline] Invalid property 'NewVar_0' class, replaced with Object.  Please fix or remove.
+[2019.04.05-03.51.24:226][149]LogBlueprint: Warning: [Compiler Splineline] [4541.12] Compile of Splineline successful, but with 2 Warning(s) [in 162 ms] (/Game/Blueprints/Truckfollowspline/Splineline.Splineline)
+[2019.04.05-03.51.26:668][292]LogEditorTransaction: Undo Make New Scene Root
+[2019.04.05-03.51.26:684][292]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.05-03.51.26:934][292]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.250 s
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: 
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: 
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: Stack: 
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff01bd85e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007ffeffb9fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007ffeffbcacf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007ffeffbb140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007ffeffc1b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007ffeffc5f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007ffeffbf726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007ffefef61168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff058d206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff05914c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff00476d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff00464cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff0589694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff0591697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff05909a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff3e1bdaa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff3e1b0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff3e1c01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff3e1aca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff6eb36d41 USER32.dll!UnknownFunction []
+[2019.04.05-03.51.26:934][292]LogOutputDevice: Error: [Callstack] 0x00007fff6eb36713 USER32.dll!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: [Callstack] 0x00007fff3e1c1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: [Callstack] 0x00007ff6a10c5546 UE4Editor.exe!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: [Callstack] 0x00007ff6a10d596c UE4Editor.exe!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: [Callstack] 0x00007ff6a10d59ea UE4Editor.exe!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: [Callstack] 0x00007ff6a10e48da UE4Editor.exe!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: [Callstack] 0x00007ff6a10e659a UE4Editor.exe!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: [Callstack] 0x00007fff6e913dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: [Callstack] 0x00007fff714e3691 ntdll.dll!UnknownFunction []
+[2019.04.05-03.51.26:935][292]LogOutputDevice: Error: 
+[2019.04.05-03.51.26:936][292]LogStats:                SubmitErrorReport -  0.000 s
