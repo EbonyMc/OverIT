@@ -817,3 +817,1103 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.12-15.51.41:799][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.04.12-15.51.42:825][218]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level18DA75B1C468694B62A2D04BE4DB387B4.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
 [2019.04.12-15.51.42:855][218]LogFileHelpers: Saving map 'Level1' took 1.056
+[2019.04.12-15.52.23:153][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.52.50:850][601]BlueprintLog: New page: Compile AlienThatSwipes
+[2019.04.12-15.52.52:705][786]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.52.52:722][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.52.52:722][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-15.52.52:722][786]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:52:52 AM)
+[2019.04.12-15.52.52:722][786]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.52.52:781][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058489s)
+[2019.04.12-15.52.52:781][786]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.52.52:781][786]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.04.12-15.52.52:781][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.059232s)
+[2019.04.12-15.52.52:815][786]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.52.52:905][786]LogInit: FAudioDevice initialized.
+[2019.04.12-15.52.52:939][786]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.52.52:983][786]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.52.52
+[2019.04.12-15.52.52:986][786]LogWorld: Bringing up level for play took: 0.045822
+[2019.04.12-15.52.52:999][786]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.52.53:002][786]Cmd: vr.bEnableStereo True
+[2019.04.12-15.52.53:002][786]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.52.53:004][786]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.965
+[2019.04.12-15.52.53:005][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.52.53:710][858]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.52.53:710][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.53.00:538][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.00:538][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.53.00:583][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.53.00:583][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.00:625][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.53.00:659][585]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.04.12-15.53.01:796][668]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.53.01:804][668]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.53.06:326][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.53.06:508][ 11]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animation/AlienAI.AlienAI
+[2019.04.12-15.53.06:538][ 11]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.12-15.53.06:731][ 11]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.12-15.53.07:007][ 11]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.12-15.53.12:742][697]BlueprintLog: New page: Compile AlienAI
+[2019.04.12-15.53.20:598][582]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.53.20:609][582]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.20:609][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-15.53.20:609][582]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:53:20 AM)
+[2019.04.12-15.53.20:609][582]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.53.20:667][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058334s)
+[2019.04.12-15.53.20:668][582]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.53.20:668][582]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2019.04.12-15.53.20:668][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.059042s)
+[2019.04.12-15.53.20:705][582]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.53.20:791][582]LogInit: FAudioDevice initialized.
+[2019.04.12-15.53.20:823][582]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.53.20:841][582]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.53.20
+[2019.04.12-15.53.20:843][582]LogWorld: Bringing up level for play took: 0.019386
+[2019.04.12-15.53.20:855][582]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.53.20:857][582]Cmd: vr.bEnableStereo True
+[2019.04.12-15.53.20:857][582]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.53.20:859][582]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.821
+[2019.04.12-15.53.20:861][582]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.21:605][651]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.53.21:605][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.53.26:342][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.26:342][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.53.26:387][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.53.26:388][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.26:424][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.53.26:457][150]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.04.12-15.53.27:579][236]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.53.27:586][236]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.53.30:097][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.53.35:519][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.53.35:621][925]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.53.35:633][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.35:633][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-15.53.35:633][925]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:53:35 AM)
+[2019.04.12-15.53.35:633][925]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.53.35:691][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057643s)
+[2019.04.12-15.53.35:692][925]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.53.35:692][925]LogPlayLevel: PIE: World Init took: (0.000438s)
+[2019.04.12-15.53.35:692][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.058341s)
+[2019.04.12-15.53.35:726][925]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.53.35:815][925]LogInit: FAudioDevice initialized.
+[2019.04.12-15.53.35:845][925]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.53.35:864][925]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.53.35
+[2019.04.12-15.53.35:866][925]LogWorld: Bringing up level for play took: 0.019839
+[2019.04.12-15.53.35:878][925]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.53.35:880][925]Cmd: vr.bEnableStereo True
+[2019.04.12-15.53.35:880][925]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.53.35:882][925]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.156
+[2019.04.12-15.53.35:944][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.36:631][978]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.53.36:631][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.53.43:013][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.43:014][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.53.43:051][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.53.43:051][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.53.43:088][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.53.43:127][686]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.04.12-15.53.44:858][810]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.53.44:864][810]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.53.45:690][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.53.49:103][220]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Alien.Alien
+[2019.04.12-15.54.04:894][ 50]BlueprintLog: New page: Compile AlienThatSwipes
+[2019.04.12-15.54.06:587][219]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.54.06:603][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.54.06:603][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-15.54.06:603][219]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:54:06 AM)
+[2019.04.12-15.54.06:603][219]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.54.06:660][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056293s)
+[2019.04.12-15.54.06:661][219]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.54.06:661][219]LogPlayLevel: PIE: World Init took: (0.000436s)
+[2019.04.12-15.54.06:661][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.056973s)
+[2019.04.12-15.54.06:693][219]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.54.06:779][219]LogInit: FAudioDevice initialized.
+[2019.04.12-15.54.06:813][219]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.54.06:855][219]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.54.06
+[2019.04.12-15.54.06:858][219]LogWorld: Bringing up level for play took: 0.044066
+[2019.04.12-15.54.06:870][219]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.54.06:871][219]Cmd: vr.bEnableStereo True
+[2019.04.12-15.54.06:871][219]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.54.06:873][219]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.836
+[2019.04.12-15.54.06:875][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.54.07:595][286]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.54.07:595][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.54.12:210][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.54.12:210][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.54.12:251][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.54.12:251][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.54.12:286][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.54.12:318][807]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.04.12-15.54.13:230][873]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.54.13:238][873]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.54.21:277][650]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.54.21:288][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.54.21:288][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-15.54.21:288][650]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:54:21 AM)
+[2019.04.12-15.54.21:289][650]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.54.21:345][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056524s)
+[2019.04.12-15.54.21:346][650]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.54.21:346][650]LogPlayLevel: PIE: World Init took: (0.000433s)
+[2019.04.12-15.54.21:346][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057187s)
+[2019.04.12-15.54.21:380][650]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.54.21:488][650]LogInit: FAudioDevice initialized.
+[2019.04.12-15.54.21:520][650]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.54.21:539][650]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.54.21
+[2019.04.12-15.54.21:541][650]LogWorld: Bringing up level for play took: 0.020032
+[2019.04.12-15.54.21:552][650]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.54.21:554][650]Cmd: vr.bEnableStereo True
+[2019.04.12-15.54.21:554][650]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.54.21:556][650]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.482
+[2019.04.12-15.54.21:558][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.54.22:280][705]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.54.22:280][705]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.54.32:156][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.54.32:156][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.54.32:196][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.54.32:196][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.54.32:229][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.54.32:262][861]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.04.12-15.54.33:423][952]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.54.33:429][952]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.54.41:443][829]BlueprintLog: New page: Compile AlienThatSwipes
+[2019.04.12-15.54.56:617][410]LogSlate: Window 'Save Content' being destroyed
+[2019.04.12-15.54.56:648][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="D:/FOLDER/OverIT/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.04.12-15.54.56:678][410]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AlienAI9E2EDAE949570C220766D49FF614A288.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.04.12-15.54.56:690][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AlienThatSwipes" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/AlienThatSwipes.uasset" SILENT=true
+[2019.04.12-15.54.56:712][410]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AlienThatSwipes2BA30F7C43D32F2048179497464247B8.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/AlienThatSwipes.uasset'
+[2019.04.12-15.54.56:716][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.12-15.54.57:687][410]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level175B292BF4AA2731CE56B53B6095567B9.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.04.12-15.54.57:712][410]LogFileHelpers: Saving map 'Level1' took 0.997
+[2019.04.12-15.55.02:002][901]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume5)
+[2019.04.12-15.55.05:208][280]LogEditorViewport: Clicking on Actor (LMB): Alien_C (Alien)
+[2019.04.12-15.55.06:965][482]Cmd: DELETE
+[2019.04.12-15.55.06:965][482]Cmd: ACTOR DELETE
+[2019.04.12-15.55.06:996][482]LogEditorActor: Deleted Actor: Alien_C
+[2019.04.12-15.55.07:022][482]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.04.12-15.55.08:830][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.55.09:995][686]LogSlate: Window 'Save Content' being destroyed
+[2019.04.12-15.55.10:019][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.12-15.55.11:033][686]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level10F59E1F24FB277B32F70B09A13A2D9E4.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.04.12-15.55.11:058][686]LogFileHelpers: Saving map 'Level1' took 1.040
+[2019.04.12-15.55.37:955][529]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AlienThatSwipes.AlienThatSwipes
+[2019.04.12-15.56.03:763][558]BlueprintLog: New page: Compile Alien
+[2019.04.12-15.56.17:770][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.56.21:190][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.56.21:292][560]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.56.21:306][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.56.21:306][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-15.56.21:306][560]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:56:21 AM)
+[2019.04.12-15.56.21:306][560]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.56.21:364][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057552s)
+[2019.04.12-15.56.21:365][560]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.56.21:365][560]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2019.04.12-15.56.21:365][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.058301s)
+[2019.04.12-15.56.21:400][560]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.56.21:487][560]LogInit: FAudioDevice initialized.
+[2019.04.12-15.56.21:521][560]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.56.21:540][560]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.56.21
+[2019.04.12-15.56.21:542][560]LogWorld: Bringing up level for play took: 0.020208
+[2019.04.12-15.56.21:554][560]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.56.21:556][560]Cmd: vr.bEnableStereo True
+[2019.04.12-15.56.21:556][560]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.56.21:558][560]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.48
+[2019.04.12-15.56.21:591][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.56.22:293][619]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.56.22:293][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.56.33:634][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.56.33:634][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.56.33:675][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.56.33:675][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.56.33:711][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.56.33:747][873]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.04.12-15.56.35:444][  0]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.56.35:453][  0]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.57.04:136][273]BlueprintLog: New page: Compile AlienThatSwipes
+[2019.04.12-15.57.05:749][430]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.57.05:765][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.57.05:765][430]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.12-15.57.05:767][430]LogPlayLevel: [PlayLevel] Compiling AlienAI before play...
+[2019.04.12-15.57.05:771][430]LogPlayLevel: [PlayLevel]   Compiling AlienSpawn as a dependent...
+[2019.04.12-15.57.05:776][430]LogPlayLevel: [PlayLevel]   Compiling Alien as a dependent...
+[2019.04.12-15.57.05:997][430]LogPlayLevel: PlayLevel: Blueprint regeneration took 231 ms (3 blueprints)
+[2019.04.12-15.57.05:997][430]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:57:05 AM)
+[2019.04.12-15.57.05:997][430]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.57.06:054][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056550s)
+[2019.04.12-15.57.06:054][430]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.57.06:055][430]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2019.04.12-15.57.06:055][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057236s)
+[2019.04.12-15.57.06:089][430]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.57.06:175][430]LogInit: FAudioDevice initialized.
+[2019.04.12-15.57.06:209][430]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.57.06:229][430]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.57.06
+[2019.04.12-15.57.06:232][430]LogWorld: Bringing up level for play took: 0.021811
+[2019.04.12-15.57.06:244][430]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.57.06:245][430]Cmd: vr.bEnableStereo True
+[2019.04.12-15.57.06:245][430]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.57.06:247][430]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.209
+[2019.04.12-15.57.06:249][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.57.06:872][487]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.57.06:872][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.57.26:691][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.57.26:691][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.57.26:730][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.57.26:731][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.57.26:766][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.57.26:800][647]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.04.12-15.57.27:812][714]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.57.27:820][714]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.57.29:429][880]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume4)
+[2019.04.12-15.57.31:222][ 51]LogEditorViewport: Clicking on Actor (LMB): AlienThatSwipes_C (AlienThatSwipes)
+[2019.04.12-15.57.33:964][312]Cmd: DELETE
+[2019.04.12-15.57.33:964][312]Cmd: ACTOR DELETE
+[2019.04.12-15.57.33:996][312]LogEditorActor: Deleted Actor: AlienThatSwipes_C
+[2019.04.12-15.57.34:028][312]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.04.12-15.57.35:494][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-15.57.40:219][552]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.12-15.57.40:285][552]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.12-15.57.45:824][667]LogSlate: Window 'Save Content' being destroyed
+[2019.04.12-15.57.45:870][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Alien" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Alien.uasset" SILENT=true
+[2019.04.12-15.57.45:890][667]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Alien06CD0AB744F4AA49CEC371B4187F801B.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Alien.uasset'
+[2019.04.12-15.57.45:894][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.12-15.57.46:903][667]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level1AC6665DE40C8CA55E5ACFB8B57B898A5.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.04.12-15.57.46:926][667]LogFileHelpers: Saving map 'Level1' took 1.034
+[2019.04.12-15.57.48:016][760]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Alien.Alien
+[2019.04.12-15.59.03:786][  5]BlueprintLog: New page: Compile Alien
+[2019.04.12-15.59.06:708][281]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.59.06:723][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.59.06:723][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-15.59.06:723][281]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:59:06 AM)
+[2019.04.12-15.59.06:723][281]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.59.06:781][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057636s)
+[2019.04.12-15.59.06:781][281]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.59.06:781][281]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2019.04.12-15.59.06:782][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.058309s)
+[2019.04.12-15.59.06:817][281]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.59.06:907][281]LogInit: FAudioDevice initialized.
+[2019.04.12-15.59.06:939][281]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.59.06:958][281]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.59.06
+[2019.04.12-15.59.06:960][281]LogWorld: Bringing up level for play took: 0.019987
+[2019.04.12-15.59.06:972][281]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.59.06:973][281]Cmd: vr.bEnableStereo True
+[2019.04.12-15.59.06:973][281]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.59.06:975][281]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.938
+[2019.04.12-15.59.06:978][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.59.07:713][347]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.59.07:713][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.59.28:449][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.59.28:450][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.59.28:499][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.59.28:499][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.59.28:536][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.59.28:592][522]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.04.12-15.59.29:623][586]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.59.29:636][586]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.59.46:864][110]BlueprintLog: New page: Compile Alien
+[2019.04.12-15.59.49:683][374]LogTemp: Repeating last play command: Simulate
+[2019.04.12-15.59.49:701][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.59.49:701][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-15.59.49:701][374]PIE: New page: SIE session: Level1 (Apr 12, 2019, 7:59:49 AM)
+[2019.04.12-15.59.49:701][374]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-15.59.49:763][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062242s)
+[2019.04.12-15.59.49:764][374]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-15.59.49:764][374]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2019.04.12-15.59.49:764][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.063077s)
+[2019.04.12-15.59.49:799][374]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-15.59.49:885][374]LogInit: FAudioDevice initialized.
+[2019.04.12-15.59.49:917][374]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-15.59.49:935][374]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-11.59.49
+[2019.04.12-15.59.49:938][374]LogWorld: Bringing up level for play took: 0.019820
+[2019.04.12-15.59.49:950][374]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-15.59.49:951][374]Cmd: vr.bEnableStereo True
+[2019.04.12-15.59.49:951][374]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-15.59.49:953][374]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.085
+[2019.04.12-15.59.49:955][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.59.50:692][453]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-15.59.50:692][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-15.59.58:882][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.59.58:882][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.59.58:925][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-15.59.58:926][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-15.59.58:966][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-15.59.59:001][427]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.04.12-15.59.59:979][499]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-15.59.59:986][499]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.00.02:793][812]LogEditorViewport: Clicking on Actor (LMB): Alien_C (Alien)
+[2019.04.12-16.00.04:662][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.00.08:114][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.00.08:209][314]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.00.08:220][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.00.08:221][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-16.00.08:221][314]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:00:08 AM)
+[2019.04.12-16.00.08:221][314]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.00.08:282][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061844s)
+[2019.04.12-16.00.08:282][314]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.00.08:282][314]LogPlayLevel: PIE: World Init took: (0.000435s)
+[2019.04.12-16.00.08:283][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.062641s)
+[2019.04.12-16.00.08:317][314]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.00.08:407][314]LogInit: FAudioDevice initialized.
+[2019.04.12-16.00.08:436][314]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.00.08:454][314]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.00.08
+[2019.04.12-16.00.08:456][314]LogWorld: Bringing up level for play took: 0.019381
+[2019.04.12-16.00.08:468][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.00.08:470][314]Cmd: vr.bEnableStereo True
+[2019.04.12-16.00.08:470][314]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.00.08:472][314]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.434
+[2019.04.12-16.00.08:507][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.00.09:216][370]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-16.00.09:216][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.00.26:839][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.00.26:840][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.00.26:882][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.00.26:882][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.00.26:916][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.00.26:952][445]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.04.12-16.00.28:232][541]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.00.28:238][541]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.00.58:157][320]BlueprintLog: New page: Compile Alien
+[2019.04.12-16.01.00:902][577]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.01.00:918][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.01.00:918][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-16.01.00:918][577]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:01:00 AM)
+[2019.04.12-16.01.00:919][577]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.01.00:976][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057488s)
+[2019.04.12-16.01.00:977][577]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.01.00:977][577]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.04.12-16.01.00:977][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.058274s)
+[2019.04.12-16.01.01:014][577]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.01.01:102][577]LogInit: FAudioDevice initialized.
+[2019.04.12-16.01.01:132][577]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.01.01:169][577]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.01.01
+[2019.04.12-16.01.01:174][577]LogWorld: Bringing up level for play took: 0.041113
+[2019.04.12-16.01.01:186][577]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.01.01:188][577]Cmd: vr.bEnableStereo True
+[2019.04.12-16.01.01:188][577]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.01.01:190][577]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.152
+[2019.04.12-16.01.01:192][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.01.01:907][641]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-16.01.01:907][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.01.09:618][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.01.09:618][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.01.09:666][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.01.09:666][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.01.09:702][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.01.09:735][545]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.04.12-16.01.10:897][632]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.01.10:903][632]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.01.19:185][311]BlueprintLog: New page: Compile Alien
+[2019.04.12-16.01.21:882][580]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.01.21:899][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.01.21:899][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-16.01.21:899][580]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:01:21 AM)
+[2019.04.12-16.01.21:899][580]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.01.21:956][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057075s)
+[2019.04.12-16.01.21:956][580]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.01.21:956][580]LogPlayLevel: PIE: World Init took: (0.000441s)
+[2019.04.12-16.01.21:956][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057728s)
+[2019.04.12-16.01.21:987][580]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.01.22:078][580]LogInit: FAudioDevice initialized.
+[2019.04.12-16.01.22:111][580]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.01.22:155][580]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.01.22
+[2019.04.12-16.01.22:157][580]LogWorld: Bringing up level for play took: 0.044749
+[2019.04.12-16.01.22:170][580]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.01.22:171][580]Cmd: vr.bEnableStereo True
+[2019.04.12-16.01.22:171][580]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.01.22:173][580]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.135
+[2019.04.12-16.01.22:175][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.01.22:889][656]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-16.01.22:889][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.01.30:419][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.01.30:420][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.01.30:465][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.01.30:465][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.01.30:498][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.01.30:531][536]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.04.12-16.01.31:165][579]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.01.31:171][579]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.01.41:209][546]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AlienWIth1.AlienWIth1
+[2019.04.12-16.01.51:927][587]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_30:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.01.51:928][587]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.01.53:779][754]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_2 via property Pen, but TRASH_StaticMeshComponent_2 is pending kill
+	AlienWIth1_C /Engine/Transient.World_30:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0017
+[2019.04.12-16.01.53:779][754]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_30:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.01.53:779][754]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_2 via property Pen, but TRASH_StaticMeshComponent_2 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0017
+[2019.04.12-16.01.53:779][754]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.02.04:726][800]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_2 via property Pen, but TRASH_StaticMeshComponent_2 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0017
+[2019.04.12-16.02.04:726][800]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.02.07:317][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.12-16.02.08:837][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_2 via property Pen, but TRASH_StaticMeshComponent_2 is pending kill
+	AlienWIth1_C /Engine/Transient.World_30:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0017
+[2019.04.12-16.02.08:837][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_30:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.02.08:838][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_2 via property Pen, but TRASH_StaticMeshComponent_2 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0017
+[2019.04.12-16.02.08:838][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.02.08:838][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_2 via property Pen, but TRASH_StaticMeshComponent_2 is pending kill
+	AlienWIth1_C /Engine/Transient.World_30:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0017
+[2019.04.12-16.02.08:838][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_30:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.02.08:838][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_2 via property Pen, but TRASH_StaticMeshComponent_2 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0017
+[2019.04.12-16.02.08:838][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_1 via property Clip, but TRASH_StaticMeshComponent_1 is pending kill
+	AlienWIth1_C /Engine/Transient.World_31:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0060
+[2019.04.12-16.02.08:839][124]LogScript: Warning: Attempted to access TRASH_StaticMeshComponent_2 via property Pen, but TRASH_StaticMeshComponent_2 is pending kill
+	AlienWIth1_C /Engine/Transient.World_30:PersistentLevel.AlienWIth1_C_0
+	Function /Game/Blueprints/AlienWIth1.AlienWIth1_C:UserConstructionScript:0017
+[2019.04.12-16.02.16:654][757]BlueprintLog: New page: Compile AlienWIth1
+[2019.04.12-16.02.17:425][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AlienWIth1" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/AlienWIth1.uasset" SILENT=true
+[2019.04.12-16.02.17:444][793]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AlienWIth1A86AF8924D929E53027CF09761EE13AD.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/AlienWIth1.uasset'
+[2019.04.12-16.02.20:083][  4]LogSlate: Window 'AlienWIth1' being destroyed
+[2019.04.12-16.02.20:088][  4]LogSlate: Window 'AlienWIth1' being destroyed
+[2019.04.12-16.02.20:148][  4]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.12-16.02.23:918][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.02.24:011][412]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.02.24:026][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.02.24:026][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-16.02.24:026][412]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:02:24 AM)
+[2019.04.12-16.02.24:026][412]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.02.24:083][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056723s)
+[2019.04.12-16.02.24:083][412]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.02.24:084][412]LogPlayLevel: PIE: World Init took: (0.000434s)
+[2019.04.12-16.02.24:084][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057385s)
+[2019.04.12-16.02.24:115][412]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.02.24:202][412]LogInit: FAudioDevice initialized.
+[2019.04.12-16.02.24:233][412]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.02.24:258][412]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.02.24
+[2019.04.12-16.02.24:260][412]LogWorld: Bringing up level for play took: 0.026656
+[2019.04.12-16.02.24:273][412]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.02.24:274][412]Cmd: vr.bEnableStereo True
+[2019.04.12-16.02.24:274][412]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.02.24:276][412]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.238
+[2019.04.12-16.02.24:310][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.02.25:020][467]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-16.02.25:020][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.02.37:721][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.02.37:721][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.02.37:761][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.02.37:761][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.02.37:799][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.02.37:836][819]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.04.12-16.02.39:068][914]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.02.39:075][914]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.02.45:231][308]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.12-16.02.46:597][439]LogEditorViewport: Clicking on Actor (LMB): AlienWIth1_C (AlienWIth1)
+[2019.04.12-16.02.48:915][690]Cmd: DELETE
+[2019.04.12-16.02.48:915][690]Cmd: ACTOR DELETE
+[2019.04.12-16.02.48:946][690]LogEditorActor: Deleted Actor: AlienWIth1_C
+[2019.04.12-16.02.48:974][690]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.04.12-16.02.50:812][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.02.54:367][983]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.12-16.03.13:567][112]LogMetaData: Removing '/Game/Blueprints/AlienSwiper.AlienSwiper:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Alien.PackageMetaData'
+[2019.04.12-16.03.13:567][112]LogMetaData: Removing '/Game/Blueprints/AlienSwiper.AlienSwiper_C' ref from Metadata '/Game/Blueprints/Alien.PackageMetaData'
+[2019.04.12-16.03.13:567][112]LogMetaData: Removing '/Game/Blueprints/AlienSwiper.SKEL_AlienSwiper_C' ref from Metadata '/Game/Blueprints/Alien.PackageMetaData'
+[2019.04.12-16.03.13:674][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AlienSwiper" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/AlienSwiper.uasset" SILENT=true
+[2019.04.12-16.03.13:704][112]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AlienSwiperD7636E234FC8929B10BCD18ACBEA791F.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/AlienSwiper.uasset'
+[2019.04.12-16.03.13:708][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Alien" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Alien.uasset" SILENT=true
+[2019.04.12-16.03.13:786][112]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Alien7BC417A546BB26B08B2FE48B9A2E558D.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Alien.uasset'
+[2019.04.12-16.03.16:183][155]LogSlate: Window 'Save Content' being destroyed
+[2019.04.12-16.03.16:215][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="D:/FOLDER/OverIT/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.04.12-16.03.16:244][155]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AlienAID5DB58FB4EC56CD23AE684BD767F439C.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.04.12-16.03.16:248][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AlienSpawn" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/AlienSpawn.uasset" SILENT=true
+[2019.04.12-16.03.16:264][155]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AlienSpawnCDC896474A0D025FCD9ADE9446657B2C.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/AlienSpawn.uasset'
+[2019.04.12-16.03.16:269][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.12-16.03.17:284][155]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level1543531884F4BEBCB6AC1409FF266264E.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.04.12-16.03.17:309][155]LogFileHelpers: Saving map 'Level1' took 1.040
+[2019.04.12-16.03.19:071][339]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.03.19:083][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.03.19:083][339]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.12-16.03.19:087][339]LogPlayLevel: [PlayLevel] Compiling AlienSpawn before play...
+[2019.04.12-16.03.19:235][339]LogPlayLevel: [PlayLevel] Compiling AlienAI before play...
+[2019.04.12-16.03.19:399][339]LogPlayLevel: PlayLevel: Blueprint regeneration took 316 ms (2 blueprints)
+[2019.04.12-16.03.19:400][339]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:03:19 AM)
+[2019.04.12-16.03.19:400][339]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.03.19:456][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056253s)
+[2019.04.12-16.03.19:456][339]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.03.19:457][339]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2019.04.12-16.03.19:457][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.056963s)
+[2019.04.12-16.03.19:489][339]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.03.19:575][339]LogInit: FAudioDevice initialized.
+[2019.04.12-16.03.19:609][339]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.03.19:652][339]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.03.19
+[2019.04.12-16.03.19:656][339]LogWorld: Bringing up level for play took: 0.045534
+[2019.04.12-16.03.19:668][339]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.03.19:670][339]Cmd: vr.bEnableStereo True
+[2019.04.12-16.03.19:670][339]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.03.19:672][339]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.366
+[2019.04.12-16.03.19:674][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.03.20:288][390]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:1630
+[2019.04.12-16.03.20:288][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.03.21:055][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.03.21:055][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.03.21:097][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.03.21:097][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.03.21:129][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.03.21:165][476]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2019.04.12-16.03.22:088][549]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.03.22:094][549]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.03.28:626][ 64]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.04.12-16.03.36:096][894]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Walker.Walker
+[2019.04.12-16.03.48:261][885]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.12-16.03.55:857][537]BlueprintLog: New page: Compile Walker
+[2019.04.12-16.03.58:727][775]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AlienWIth.AlienWIth
+[2019.04.12-16.04.04:524][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.04.07:535][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.04.07:636][442]Cmd: MODE SCALEGRID=1
+[2019.04.12-16.04.33:775][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.04.33:883][311]BlueprintLog: New page: Compile Walker
+[2019.04.12-16.05.35:670][218]BlueprintLog: New page: Compile Walker
+[2019.04.12-16.05.36:981][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Walker" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Walker.uasset" SILENT=true
+[2019.04.12-16.05.36:999][308]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Walker32A5D6284086EF59BE1D699F26ADB628.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Walker.uasset'
+[2019.04.12-16.05.46:032][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.05.46:101][196]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.05.46:120][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.05.46:120][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-16.05.46:120][196]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:05:46 AM)
+[2019.04.12-16.05.46:120][196]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.05.46:179][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059045s)
+[2019.04.12-16.05.46:179][196]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.05.46:180][196]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2019.04.12-16.05.46:180][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.059729s)
+[2019.04.12-16.05.46:214][196]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.05.46:339][196]LogInit: FAudioDevice initialized.
+[2019.04.12-16.05.46:370][196]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.05.46:389][196]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.05.46
+[2019.04.12-16.05.46:391][196]LogWorld: Bringing up level for play took: 0.020409
+[2019.04.12-16.05.46:403][196]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.05.46:405][196]Cmd: vr.bEnableStereo True
+[2019.04.12-16.05.46:405][196]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.05.46:407][196]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.369
+[2019.04.12-16.05.46:442][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.05.47:106][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.05.55:345][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.05.55:345][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.05.55:391][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.05.55:391][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.05.55:426][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.05.55:462][224]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.04.12-16.05.56:422][293]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.05.56:429][293]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.06.37:912][242]BlueprintLog: New page: Compile Walker
+[2019.04.12-16.06.39:714][348]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.06.39:733][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.06.39:734][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-16.06.39:734][348]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:06:39 AM)
+[2019.04.12-16.06.39:734][348]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.06.39:791][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056573s)
+[2019.04.12-16.06.39:791][348]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.06.39:791][348]LogPlayLevel: PIE: World Init took: (0.000431s)
+[2019.04.12-16.06.39:791][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.057217s)
+[2019.04.12-16.06.39:823][348]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.06.39:908][348]LogInit: FAudioDevice initialized.
+[2019.04.12-16.06.39:943][348]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.06.39:980][348]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.06.39
+[2019.04.12-16.06.39:983][348]LogWorld: Bringing up level for play took: 0.036993
+[2019.04.12-16.06.39:994][348]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.06.39:996][348]Cmd: vr.bEnableStereo True
+[2019.04.12-16.06.39:996][348]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.06.39:998][348]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.04
+[2019.04.12-16.06.40:000][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.06.40:717][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.06.48:059][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.06.48:060][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.06.48:105][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.06.48:105][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.06.48:142][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.06.48:190][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.04.12-16.06.49:623][182]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.06.49:636][182]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.07.21:365][862]BlueprintLog: New page: Compile Walker
+[2019.04.12-16.07.24:571][  8]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.07.24:592][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.07.24:592][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-16.07.24:592][  8]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:07:24 AM)
+[2019.04.12-16.07.24:592][  8]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.07.24:654][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061506s)
+[2019.04.12-16.07.24:654][  8]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.07.24:654][  8]LogPlayLevel: PIE: World Init took: (0.000447s)
+[2019.04.12-16.07.24:654][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.062175s)
+[2019.04.12-16.07.24:687][  8]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.07.24:776][  8]LogInit: FAudioDevice initialized.
+[2019.04.12-16.07.24:805][  8]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.07.24:824][  8]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.07.24
+[2019.04.12-16.07.24:826][  8]LogWorld: Bringing up level for play took: 0.020077
+[2019.04.12-16.07.24:838][  8]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.07.24:840][  8]Cmd: vr.bEnableStereo True
+[2019.04.12-16.07.24:840][  8]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.07.24:842][  8]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.803
+[2019.04.12-16.07.24:844][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.07.25:581][ 75]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.07.40:370][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.07.40:371][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.07.40:411][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.07.40:411][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.07.40:449][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.07.40:498][433]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.04.12-16.07.41:369][485]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.07.41:382][485]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.07.43:065][625]LogSlate: Window 'AlienWIth' being destroyed
+[2019.04.12-16.07.43:072][625]LogSlate: Window 'AlienWIth' being destroyed
+[2019.04.12-16.07.43:138][625]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.12-16.07.45:636][698]LogSlate: Window 'Save Content' being destroyed
+[2019.04.12-16.07.45:678][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Walker" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Walker.uasset" SILENT=true
+[2019.04.12-16.07.45:698][698]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Walker0ACA6B3D4D3D223466D235963962EC18.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Walker.uasset'
+[2019.04.12-16.07.45:709][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.12-16.07.46:684][698]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level102A8F519498FD801255150BE3641DDB8.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.04.12-16.07.46:710][698]LogFileHelpers: Saving map 'Level1' took 1.002
+[2019.04.12-16.14.32:454][771]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.04.12-16.14.43:472][771]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.04.12-16.14.48:999][366]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animation/AnotherOne.AnotherOne
+[2019.04.12-16.14.49:019][366]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.12-16.14.49:217][366]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.12-16.14.49:493][366]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.12-16.17.44:519][592]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Level1' took 0.025
+[2019.04.12-16.17.44:520][592]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/AnotherOne] ([1] browsable assets)...
+[2019.04.12-16.17.44:532][592]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/AnotherOne.AnotherOne]
+[2019.04.12-16.17.44:532][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/AnotherOne]
+[2019.04.12-16.17.44:532][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AnotherOne" FILE="D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Animation/AnotherOne_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.04.12-16.17.44:550][592]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AnotherOne_Auto3F2DA7AD84FDA0CBBACEADB8300FF3F3D.tmp' to 'D:/FOLDER/OverIT/MyProject3/Saved/Autosaves/Game/Animation/AnotherOne_Auto3.uasset'
+[2019.04.12-16.17.44:550][592]LogFileHelpers: Auto-saving content packages took 0.031
+[2019.04.12-16.19.47:005][129]BlueprintLog: New page: Compile AnotherOne
+[2019.04.12-16.19.47:012][129]LogBlueprint: Warning: [Compiler AnotherOne] Idle to Walkig  will never be taken, please connect something to  Can Enter Transition
+[2019.04.12-16.19.47:012][129]LogBlueprint: Warning: [Compiler AnotherOne] Walkig to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.04.12-16.19.47:172][129]LogBlueprint: Warning: [Compiler AnotherOne] [3874.54] Compile of AnotherOne successful, but with 2 Warning(s) [in 166 ms] (/Game/Animation/AnotherOne.AnotherOne)
+[2019.04.12-16.19.58:663][946]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animation/AlienAI.AlienAI
+[2019.04.12-16.19.58:680][946]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.12-16.19.58:884][946]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.12-16.19.59:152][946]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.12-16.21.01:735][806]LogSlate: Window 'AnotherOne*' being destroyed
+[2019.04.12-16.21.35:470][825]BlueprintLog: New page: Compile AnotherOne
+[2019.04.12-16.21.35:478][825]LogBlueprint: Warning: [Compiler AnotherOne] Idle to Walkig  will never be taken, please connect something to  Can Enter Transition
+[2019.04.12-16.21.35:479][825]LogBlueprint: Warning: [Compiler AnotherOne] Walkig to Idle  will never be taken, please connect something to  Can Enter Transition
+[2019.04.12-16.21.35:643][825]LogBlueprint: Warning: [Compiler AnotherOne] [3983.02] Compile of AnotherOne successful, but with 2 Warning(s) [in 173 ms] (/Game/Animation/AnotherOne.AnotherOne)
+[2019.04.12-16.22.47:254][339]BlueprintLog: New page: Compile AnotherOne
+[2019.04.12-16.23.14:603][564]BlueprintLog: New page: Compile AnotherOne
+[2019.04.12-16.23.18:829][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AnotherOne" FILE="D:/FOLDER/OverIT/MyProject3/Content/Animation/AnotherOne.uasset" SILENT=true
+[2019.04.12-16.23.18:858][ 24]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AnotherOneFB8708D74C57CB84D599C29456B22113.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Animation/AnotherOne.uasset'
+[2019.04.12-16.23.25:542][733]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Walker.Walker
+[2019.04.12-16.23.32:876][550]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.12-16.23.39:098][290]BlueprintLog: New page: Compile Walker
+[2019.04.12-16.23.41:249][504]LogTemp: Repeating last play command: Simulate
+[2019.04.12-16.23.41:269][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.23.41:269][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.12-16.23.41:269][504]PIE: New page: SIE session: Level1 (Apr 12, 2019, 8:23:41 AM)
+[2019.04.12-16.23.41:269][504]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2019.04.12-16.23.41:328][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058536s)
+[2019.04.12-16.23.41:329][504]LogAIModule: Creating AISystem for world Level1
+[2019.04.12-16.23.41:329][504]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.04.12-16.23.41:329][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.059237s)
+[2019.04.12-16.23.41:362][504]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.12-16.23.41:452][504]LogInit: FAudioDevice initialized.
+[2019.04.12-16.23.41:483][504]LogLoad: Game class is 'GameModeBase'
+[2019.04.12-16.23.41:523][504]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2019.04.12-12.23.41
+[2019.04.12-16.23.41:526][504]LogWorld: Bringing up level for play took: 0.043848
+[2019.04.12-16.23.41:539][504]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.12-16.23.41:540][504]Cmd: vr.bEnableStereo True
+[2019.04.12-16.23.41:540][504]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.04.12-16.23.41:542][504]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.495
+[2019.04.12-16.23.41:545][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.23.42:254][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ScanVar". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Branch
+[2019.04.12-16.23.54:887][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.23.54:888][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.23.54:929][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.12-16.23.54:930][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.04.12-16.23.54:965][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.12-16.23.54:999][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.04.12-16.23.55:932][136]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.23.55:940][136]LogSlate: Window 'Message Log' being destroyed
+[2019.04.12-16.24.36:567][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AlienAI" FILE="D:/FOLDER/OverIT/MyProject3/Content/Animation/AlienAI.uasset" SILENT=true
+[2019.04.12-16.24.36:591][941]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/AlienAIB16C967846A500829AF498912E5E13BD.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Animation/AlienAI.uasset'
+[2019.04.12-16.24.42:604][660]LogEditorViewport: Clicking on Actor (LMB): AlienSwiper_C (Alien)
+[2019.04.12-16.24.48:799][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.12-16.24.48:926][378]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AlienSwiper.AlienSwiper
+[2019.04.12-16.24.57:173][313]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.12-16.25.01:924][620]LogSlate: Window 'Save Content' being destroyed
+[2019.04.12-16.25.01:955][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Walker" FILE="D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Walker.uasset" SILENT=true
+[2019.04.12-16.25.02:017][620]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/WalkerAA0287CD44A0B9F3A15187B99F5B8731.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/Blueprints/Walker.uasset'
+[2019.04.12-16.25.02:022][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.12-16.25.02:999][620]LogSavePackage: Moving 'D:/FOLDER/OverIT/MyProject3/Saved/Level11F8F486C4462C874353CEBBA2B00A928.tmp' to 'D:/FOLDER/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap'
+[2019.04.12-16.25.03:026][620]LogFileHelpers: Saving map 'Level1' took 1.004
+[2019.04.12-16.25.10:416][427]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2019.04.12-16.25.10:418][427]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.12-16.25.10:640][428]Cmd: QUIT_EDITOR
+[2019.04.12-16.25.10:842][428]LogExit: Preparing to exit.
+[2019.04.12-16.25.11:633][428]LogExit: Editor shut down
+[2019.04.12-16.25.11:633][428]LogExit: Transaction tracking system shut down
+[2019.04.12-16.25.11:913][428]LogExit: Object subsystem successfully closed.
+[2019.04.12-16.25.11:941][428]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.12-16.25.11:945][428]LogD3D11RHI: Shutdown
+[2019.04.12-16.25.11:945][428]LogD3D11RHI: CleanupD3DDevice
+[2019.04.12-16.25.11:956][428]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (636)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module PinnedCommandList (634)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module SkeletonEditor (632)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (630)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.04.12-16.25.11:979][428]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.12-16.25.11:980][428]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.12-16.25.11:981][428]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.12-16.25.12:171][428]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.12-16.25.12:171][428]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.12-16.25.12:171][428]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.12-16.25.12:171][428]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.12-16.25.12:171][428]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.12-16.25.12:171][428]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.12-16.25.12:172][428]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.12-16.25.12:173][428]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.12-16.25.12:173][428]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.12-16.25.12:173][428]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.12-16.25.12:173][428]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.12-16.25.12:173][428]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.12-16.25.12:173][428]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.12-16.25.12:228][428]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.12-16.25.12:228][428]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.12-16.25.12:228][428]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.12-16.25.12:228][428]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.12-16.25.12:228][428]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.12-16.25.12:228][428]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.12-16.25.12:228][428]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.12-16.25.12:229][428]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.12-16.25.12:229][428]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.12-16.25.12:229][428]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.12-16.25.12:240][428]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.12-16.25.12:240][428]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.12-16.25.12:242][428]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.12-16.25.12:242][428]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.12-16.25.12:242][428]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.12-16.25.12:243][428]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.12-16.25.12:244][428]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.12-16.25.12:244][428]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.12-16.25.12:244][428]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.12-16.25.12:244][428]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.12-16.25.12:251][428]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.12-16.25.12:491][428]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.12-16.25.12:497][428]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.12-16.25.12:498][428]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.12-16.25.12:499][428]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.12-16.25.12:601][428]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.12-16.25.12:701][428]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.12-16.25.12:701][428]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.12-16.25.12:701][428]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.12-16.25.12:701][428]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.12-16.25.12:701][428]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.12-16.25.12:701][428]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.12-16.25.12:701][428]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.12-16.25.12:702][428]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.12-16.25.12:702][428]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.12-16.25.12:702][428]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.12-16.25.12:702][428]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.12-16.25.12:703][428]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.12-16.25.12:704][428]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.12-16.25.12:704][428]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.12-16.25.12:704][428]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.12-16.25.12:704][428]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.12-16.25.12:704][428]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.12-16.25.12:705][428]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.12-16.25.12:705][428]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.12-16.25.12:707][428]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.12-16.25.12:714][428]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.12-16.25.12:715][428]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.12-16.25.12:715][428]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.12-16.25.12:717][428]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.12-16.25.12:718][428]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.12-16.25.12:718][428]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.12-16.25.12:718][428]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.12-16.25.12:718][428]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.12-16.25.12:718][428]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.12-16.25.12:718][428]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.12-16.25.12:786][428]LogDerivedDataCache: Shutdown
+[2019.04.12-16.25.12:786][428]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.12-16.25.12:786][428]LogXGEController: Cleaning working directory: C:/Users/Gretchen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.12-16.25.12:786][428]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.12-16.25.12:786][428]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.12-16.25.12:787][428]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.12-16.25.12:788][428]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.12-16.25.12:788][428]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.12-16.25.12:788][428]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.12-16.25.12:788][428]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.12-16.25.12:788][428]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.12-16.25.12:789][428]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.12-16.25.12:789][428]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.12-16.25.12:790][428]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.12-16.25.12:790][428]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.12-16.25.12:798][428]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.12-16.25.12:798][428]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.12-16.25.12:799][428]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.12-16.25.12:800][428]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.12-16.25.12:820][428]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.12-16.25.12:820][428]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.12-16.25.12:820][428]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAF9415EE-4180-2B43-D76E-B4B56E7F8141%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Cb775b6328c914cab9a29bb4702a5cd8d%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.12-16.25.12:828][428]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.12-16.25.12:830][428]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.12-16.25.12:830][428]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.12-16.25.12:830][428]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.12-16.25.12:830][428]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.12-16.25.12:830][428]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.12-16.25.12:830][428]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.12-16.25.12:830][428]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.12-16.25.12:830][428]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.12-16.25.12:830][428]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.04.12-16.25.12:830][428]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.12-16.25.12:831][428]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.12-16.25.12:831][428]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.12-16.25.12:831][428]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.12-16.25.12:831][428]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.12-16.25.12:831][428]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.12-16.25.12:832][428]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.12-16.25.12:832][428]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.12-16.25.12:832][428]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.12-16.25.12:833][428]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.12-16.25.12:849][428]LogExit: Exiting.
+[2019.04.12-16.25.12:868][428]Log file closed, 04/12/19 12:25:12
