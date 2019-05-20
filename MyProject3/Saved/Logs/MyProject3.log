@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 05/20/19 04:06:24
+=======
+﻿Log file open, 05/20/19 03:01:02
+>>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
 =======
 ﻿Log file open, 05/20/19 03:01:02
 >>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
@@ -19,6 +23,9 @@ LogStats: Stats thread started at 1.344208
 =======
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.229909
+<<<<<<< HEAD
+>>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
+=======
 >>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
@@ -104,7 +111,11 @@ LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStreaming: Display: Took  0.080s to configure plugins.
+=======
+LogStreaming: Display: Took  0.130s to configure plugins.
+>>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
 =======
 LogStreaming: Display: Took  0.130s to configure plugins.
 >>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
@@ -168,6 +179,7 @@ LogInit: Presizing for max 8388607 objects, including 0 objects not considered b
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2019.05.20-08.06.25:683][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.05.20-08.06.25:683][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2241,6 +2253,8 @@ Make sure 'TutorailCarts' has been compiled for  Get Pointsvalue
 [2019.05.20-08.10.20:253][774]LogExit: Exiting.
 [2019.05.20-08.10.20:265][774]Log file closed, 05/20/19 04:10:20
 =======
+=======
+>>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
 [2019.05.20-07.01.02:564][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.05.20-07.01.02:564][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.05.20-07.01.02:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Github/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
@@ -4437,4 +4451,7 @@ Make sure 'TutorailCarts' has been compiled for  Get Pointsvalue
 [2019.05.20-07.18.49:401][631]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2019.05.20-07.18.49:413][631]LogExit: Exiting.
 [2019.05.20-07.18.49:491][631]Log file closed, 05/20/19 03:18:49
+<<<<<<< HEAD
+>>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
+=======
 >>>>>>> 77f74a3263fc44da4ac9db21734f3e4b5738ad1c
