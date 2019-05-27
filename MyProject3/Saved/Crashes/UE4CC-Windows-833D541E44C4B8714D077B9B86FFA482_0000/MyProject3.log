@@ -1,0 +1,1368 @@
+﻿Log file open, 05/27/19 15:28:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject3
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.225352
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.127s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4210H CPU @ 2.90GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.05.27-19.28.36:675][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.27-19.28.36:675][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.27-19.28.36:676][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.27-19.28.36:676][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.27-19.28.36:676][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.05.27-19.28.36:676][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.05.27-19.28.36:680][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.27-19.28.36:680][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.27-19.28.36:681][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.27-19.28.36:681][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.27-19.28.36:681][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.27-19.28.36:698][  0]LogHAL: Display: Platform has ~ 16 GB [17087881216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.27-19.28.36:698][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.27-19.28.36:698][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.27-19.28.36:698][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.27-19.28.36:699][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.27-19.28.36:700][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.27-19.28.36:700][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Github/ugh/OverIT/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.05.27-19.28.36:700][  0]LogInit: Computer: LANCE
+[2019.05.27-19.28.36:700][  0]LogInit: User: Ailsa
+[2019.05.27-19.28.36:700][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.05.27-19.28.36:700][  0]LogInit: High frequency timer resolution =2.825500 MHz
+[2019.05.27-19.28.36:700][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.27-19.28.36:700][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.27-19.28.36:700][  0]LogMemory: Process Physical Memory: 103.17 MB used, 103.17 MB peak
+[2019.05.27-19.28.36:700][  0]LogMemory: Process Virtual Memory: 92.89 MB used, 92.89 MB peak
+[2019.05.27-19.28.36:700][  0]LogMemory: Physical Memory: 9751.11 MB used,  6545.16 MB free, 16296.27 MB total
+[2019.05.27-19.28.36:700][  0]LogMemory: Virtual Memory: 4636.91 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.05.27-19.28.36:759][  0]LogInit: Using OS detected language (en-US).
+[2019.05.27-19.28.36:760][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.27-19.28.36:761][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.27-19.28.37:287][  0]LogStreaming: Display: Took  0.527s to InitEngineTextLocalization.
+[2019.05.27-19.28.37:287][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.27-19.28.37:354][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.27-19.28.37:354][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.27-19.28.37:936][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.05.27-19.28.37:936][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.27-19.28.37:979][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.05.27-19.28.37:980][  0]LogD3D11RHI:       4064/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.27-19.28.37:990][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.05.27-19.28.37:990][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.27-19.28.37:994][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.27-19.28.37:994][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.27-19.28.37:994][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.27-19.28.38:058][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.27-19.28.38:058][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.05.27-19.28.38:058][  0]LogWindows: EnumDisplayDevices:
+[2019.05.27-19.28.38:058][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.05.27-19.28.38:059][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.27-19.28.38:060][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.27-19.28.38:060][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.27-19.28.38:060][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.05.27-19.28.38:060][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.27-19.28.38:060][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.27-19.28.38:060][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2019.05.27-19.28.38:085][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.27-19.28.38:097][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.27-19.28.38:746][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.27-19.28.38:770][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.27-19.28.38:789][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.27-19.28.38:807][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.27-19.28.38:826][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.27-19.28.38:851][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.27-19.28.38:876][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.27-19.28.38:898][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.27-19.28.38:908][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.27-19.28.39:013][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.27-19.28.39:084][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.27-19.28.39:084][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.27-19.28.39:114][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.27-19.28.39:115][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.27-19.28.39:132][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.27-19.28.39:152][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.27-19.28.39:172][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.27-19.28.39:191][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.27-19.28.39:254][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.27-19.28.39:254][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.27-19.28.39:254][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.27-19.28.39:360][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../Github/ugh/OverIT/MyProject3/Intermediate/Shaders/WorkingDirectory/146680/).
+[2019.05.27-19.28.39:360][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ailsa/AppData/Local/Temp/UnrealShaderWorkingDir/64B07AD94BBFF0ED404D7F8536546236/'.
+[2019.05.27-19.28.39:363][  0]LogXGEController: Cleaning working directory: C:/Users/Ailsa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.27-19.28.39:364][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.27-19.28.39:365][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.27-19.28.39:365][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.27-19.28.40:125][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.27-19.28.40:224][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/Ailsa/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.27-19.28.40:224][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ailsa/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.27-19.28.40:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Github/ugh/OverIT/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.27-19.28.40:224][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.27-19.28.40:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Github/ugh/OverIT/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.27-19.28.40:224][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.27-19.28.40:252][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.27-19.28.40:252][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.27-19.28.40:252][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.27-19.28.40:266][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ailsa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.27-19.28.40:266][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.27-19.28.40:266][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.27-19.28.40:310][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.27-19.28.40:313][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.27-19.28.40:315][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.27-19.28.40:464][  0]LogAssetRegistry: FAssetRegistry took 0.0447 seconds to start up
+[2019.05.27-19.28.40:981][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.27-19.28.41:072][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.27-19.28.41:079][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.27-19.28.41:080][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.27-19.28.41:080][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.27-19.28.41:080][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.27-19.28.41:204][  0]LogNetVersion: MyProject3 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2916331349)
+[2019.05.27-19.28.41:910][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.107476 seconds
+[2019.05.27-19.28.41:917][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.27-19.28.41:917][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.27-19.28.41:917][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.27-19.28.43:327][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.27-19.28.43:343][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.27-19.28.44:530][  0]SourceControl: Source control is disabled
+[2019.05.27-19.28.44:530][  0]SourceControl: Source control is disabled
+[2019.05.27-19.28.44:536][  0]SourceControl: Source control is disabled
+[2019.05.27-19.28.44:539][  0]SourceControl: Source control is disabled
+[2019.05.27-19.28.44:773][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.27-19.28.44:911][  0]LogOcInput: OculusInput pre-init called
+[2019.05.27-19.28.45:064][  0]LogEngine: Initializing Engine...
+[2019.05.27-19.28.45:073][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.05.27-19.28.45:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.27-19.28.45:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.27-19.28.45:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.27-19.28.45:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.27-19.28.45:388][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.27-19.28.45:412][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.27-19.28.45:441][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.28.45:522][  0]LogInit: FAudioDevice initialized.
+[2019.05.27-19.28.45:523][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.27-19.28.45:711][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/Ailsa/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.27-19.28.45:735][  0]LogInit: Texture streaming: Enabled
+[2019.05.27-19.28.45:763][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.27-19.28.45:835][  0]LogInit: Transaction tracking system initialized
+[2019.05.27-19.28.45:872][  0]BlueprintLog: New page: Editor Load
+[2019.05.27-19.28.45:974][  0]LocalizationService: Localization service is disabled
+[2019.05.27-19.28.46:690][  0]LogFileCache: Scanning file cache for directory 'E:/Github/ugh/OverIT/MyProject3/Content/' took 0.02s
+[2019.05.27-19.28.46:690][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.27-19.28.46:690][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.27-19.28.46:690][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.27-19.28.46:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.27-19.28.46:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.27-19.28.46:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.27-19.28.46:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.27-19.28.46:932][  0]SourceControl: Source control is disabled
+[2019.05.27-19.28.46:932][  0]Cmd: MAP LOAD FILE="../../../../Github/ugh/OverIT/MyProject3/Content/StarterContent/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.27-19.28.46:933][  0]LightingResults: New page: Lighting Build
+[2019.05.27-19.28.46:937][  0]MapCheck: New page: Map Check
+[2019.05.27-19.28.46:937][  0]LightingResults: New page: Lighting Build
+[2019.05.27-19.28.47:903][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCylinder2Mat'
+[2019.05.27-19.28.47:903][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_Pen.hs_Pen Referenced by Pen_GEN_VARIABLE
+[2019.05.27-19.28.47:903][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCylinder2Mat' while loading ../../../../Github/ugh/OverIT/MyProject3/Content/Geometry/Objects/hs_Pen.uasset.
+[2019.05.27-19.28.47:904][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_Pen.hs_Pen Referenced by Pen_GEN_VARIABLE
+[2019.05.27-19.28.47:904][  0]LoadErrors: Error: /Game/Geometry/Objects/hs_Pen : Can't find file for asset. /Game/Geometry/Objects/pCylinder2Mat
+[2019.05.27-19.28.47:904][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCylinder2Mat'
+[2019.05.27-19.28.47:904][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_Pen.hs_Pen Referenced by Pen_GEN_VARIABLE
+[2019.05.27-19.28.47:904][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCylinder2Mat' while loading ../../../../Github/ugh/OverIT/MyProject3/Content/Geometry/Objects/hs_Pen.uasset.
+[2019.05.27-19.28.47:904][  0]LoadErrors: Failed to load /Game/Geometry/Objects/hs_Pen.hs_Pen Referenced by Pen_GEN_VARIABLE
+[2019.05.27-19.28.47:904][  0]LoadErrors: Error: /Game/Geometry/Objects/hs_Pen : Can't find file for asset. /Game/Geometry/Objects/pCylinder2Mat
+[2019.05.27-19.28.49:102][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCylinder2Mat'
+[2019.05.27-19.28.49:102][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCylinder2Mat.pCylinder2Mat Referenced by hs_Pen
+[2019.05.27-19.28.49:102][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCylinder2Mat' while loading NULL.
+[2019.05.27-19.28.49:103][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCylinder2Mat.pCylinder2Mat Referenced by hs_Pen
+[2019.05.27-19.28.49:103][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Objects/pCylinder2Mat'
+[2019.05.27-19.28.49:103][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCylinder2Mat.pCylinder2Mat Referenced by hs_Pen
+[2019.05.27-19.28.49:103][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Objects/pCylinder2Mat' while loading NULL.
+[2019.05.27-19.28.49:103][  0]LoadErrors: Failed to load /Game/Geometry/Objects/pCylinder2Mat.pCylinder2Mat Referenced by hs_Pen
+[2019.05.27-19.28.49:366][  0]LoadErrors: Warning: hs_concreteBumper Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.49:676][  0]LoadErrors: Warning: hs_cake Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.49:865][  0]LoadErrors: Warning: hs_vase Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.49:885][  0]LoadErrors: Warning: hs_diamond Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.49:978][  0]LoadErrors: Warning: hs_slideDoor_Left Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.49:979][  0]LoadErrors: Warning: hs_slideDoor_Right Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.49:982][  0]LoadErrors: Warning: hs_shopcartWide Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.50:001][  0]LoadErrors: Warning: hs_groundPlane Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.50:005][  0]LoadErrors: Warning: hs_lampTree Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.50:012][  0]LoadErrors: Warning: hs_parkingMedian Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.50:013][  0]LoadErrors: Warning: hs_poster Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.50:036][  0]LoadErrors: Warning: skybox2 Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.50:121][  0]LoadErrors: Warning: hs_Pen Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.50:131][  0]LoadErrors: Warning: hs_clipBoard Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.05.27-19.28.51:198][  0]LogAIModule: Creating AISystem for world Level1
+[2019.05.27-19.28.51:275][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.05.27-19.28.51:276][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.05.27-19.28.51:371][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.27-19.28.51:434][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.27-19.28.51:435][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.659ms to complete.
+[2019.05.27-19.28.51:435][  0]LogFileHelpers: Loading map 'Level1' took 4.502
+[2019.05.27-19.28.51:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.28.51:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.28.51:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.28.51:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.28.51:708][  0]LogCollectionManager: Loaded 0 collections in 0.001551 seconds
+[2019.05.27-19.28.51:749][  0]LogFileCache: Scanning file cache for directory 'E:/Github/ugh/OverIT/MyProject3/Saved/Collections/' took 0.01s
+[2019.05.27-19.28.51:749][  0]LogFileCache: Scanning file cache for directory 'E:/Github/ugh/OverIT/MyProject3/Content/Developers/Ailsa/Collections/' took 0.01s
+[2019.05.27-19.28.51:749][  0]LogFileCache: Scanning file cache for directory 'E:/Github/ugh/OverIT/MyProject3/Content/Collections/' took 0.01s
+[2019.05.27-19.28.51:749][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.27-19.28.51:760][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2651 classes and 620 folders.
+[2019.05.27-19.28.51:769][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.27-19.28.51:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.27-19.28.51:862][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.27-19.28.51:872][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.05.27-19.28.51:898][  0]LogSlate: Took 0.000453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.27-19.28.51:902][  0]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.27-19.28.51:913][  0]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.27-19.28.52:053][  0]LogRenderer: Reallocating scene render targets to support 1004x408 Format 26 NumSamples 1 (Frame:1).
+[2019.05.27-19.28.52:297][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.27-19.28.52:297][  0]LogLoad: (Engine Initialization) Total time: 17.96 seconds
+[2019.05.27-19.28.52:297][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.27-19.28.52:310][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.27-19.28.52:394][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.27-19.28.52:403][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.28.53:526][  8]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.27-19.28.53:886][ 12]LogAssetRegistry: Asset discovery search completed in 13.4440 seconds
+[2019.05.27-19.28.53:888][ 12]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.27-19.28.53:888][ 12]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.05.27-19.28.58:307][254]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.28.58:320][254]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.28.59:830][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.30.26:289][461]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.30.26:302][461]LogAssetEditorManager: Opening Asset editor for World /Game/MenuZone.MenuZone
+[2019.05.27-19.30.26:346][461]Cmd: MAP LOAD FILE="../../../../Github/ugh/OverIT/MyProject3/Content/MenuZone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.27-19.30.26:346][461]LightingResults: New page: Lighting Build
+[2019.05.27-19.30.26:347][461]LoadErrors: New page: Loading map: MenuZone.umap
+[2019.05.27-19.30.26:361][461]MapCheck: New page: Map Check
+[2019.05.27-19.30.26:361][461]LightingResults: New page: Lighting Build
+[2019.05.27-19.30.26:415][461]LogSlate: Slate User Unregistered.  User Index 8
+[2019.05.27-19.30.26:415][461]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.05.27-19.30.26:425][461]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.27-19.30.26:522][461]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.27-19.30.26:527][461]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.656ms to complete.
+[2019.05.27-19.30.26:527][461]LogFileHelpers: Loading map 'MenuZone' took 0.182
+[2019.05.27-19.30.29:710][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.30.31:917][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.30.31:917][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.30.31:917][915]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:30:31 AM)
+[2019.05.27-19.30.31:930][915]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.30.31:933][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003225s)
+[2019.05.27-19.30.31:934][915]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.30.31:935][915]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2019.05.27-19.30.31:935][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.004643s)
+[2019.05.27-19.30.31:973][915]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.30.31:997][915]LogInit: FAudioDevice initialized.
+[2019.05.27-19.30.32:039][915]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.30.32:042][915]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.30.32
+[2019.05.27-19.30.32:043][915]LogWorld: Bringing up level for play took: 0.002369
+[2019.05.27-19.30.32:056][915]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.27-19.30.32:064][915]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.05.27-19.30.32:066][915]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone -0.415
+[2019.05.27-19.30.32:073][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.30.40:880][581]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.30.40:881][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.30.40:925][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.30.40:925][581]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.30.40:964][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.30.40:983][582]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.27-19.30.45:167][949]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.30.45:200][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.30.45:200][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.30.45:200][949]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:30:45 AM)
+[2019.05.27-19.30.45:200][949]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.30.45:203][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003011s)
+[2019.05.27-19.30.45:204][949]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.30.45:205][949]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2019.05.27-19.30.45:205][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.004401s)
+[2019.05.27-19.30.45:255][949]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.30.45:282][949]LogInit: FAudioDevice initialized.
+[2019.05.27-19.30.45:314][949]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.30.45:316][949]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.30.45
+[2019.05.27-19.30.45:317][949]LogWorld: Bringing up level for play took: 0.001855
+[2019.05.27-19.30.45:329][949]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.27-19.30.45:331][949]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone 0.851
+[2019.05.27-19.30.45:335][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.30.54:800][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.30.55:585][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.30.55:585][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.30.55:632][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.30.55:632][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.30.55:670][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.30.55:687][660]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.27-19.30.56:746][743]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables)
+[2019.05.27-19.31.05:019][259]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.27-19.31.06:381][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.32.33:481][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.33.33:595][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.33.33:721][522]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scannables.Scannables
+[2019.05.27-19.33.34:366][522]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 117 classes and 0 folders.
+[2019.05.27-19.33.35:540][522]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.27-19.34.18:113][987]LogRenderer: Reallocating scene render targets to support 1004x412 Format 26 NumSamples 1 (Frame:1).
+[2019.05.27-19.34.23:925][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.34.25:257][253]BlueprintLog: New page: Compile Scannables
+[2019.05.27-19.34.30:388][512]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.34.30:417][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.34.30:417][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.34.30:418][512]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:34:30 AM)
+[2019.05.27-19.34.30:418][512]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.34.30:421][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003490s)
+[2019.05.27-19.34.30:422][512]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.34.30:423][512]LogPlayLevel: PIE: World Init took: (0.001383s)
+[2019.05.27-19.34.30:423][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.005187s)
+[2019.05.27-19.34.30:492][512]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.34.30:520][512]LogInit: FAudioDevice initialized.
+[2019.05.27-19.34.30:553][512]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.34.30:555][512]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.34.30
+[2019.05.27-19.34.30:556][512]LogWorld: Bringing up level for play took: 0.002071
+[2019.05.27-19.34.30:569][512]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.27-19.34.30:570][512]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone 0.09
+[2019.05.27-19.34.30:597][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.34.32:324][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.34.32:325][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.34.32:372][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.34.32:372][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.34.32:424][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.34.32:443][635]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.27-19.34.39:051][928]BlueprintLog: New page: Compile Scannables
+[2019.05.27-19.34.41:225][ 29]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.34.41:261][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.34.41:261][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.34.41:261][ 29]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:34:41 AM)
+[2019.05.27-19.34.41:261][ 29]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.34.41:265][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003465s)
+[2019.05.27-19.34.41:265][ 29]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.34.41:266][ 29]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2019.05.27-19.34.41:266][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.004844s)
+[2019.05.27-19.34.41:329][ 29]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.34.41:354][ 29]LogInit: FAudioDevice initialized.
+[2019.05.27-19.34.41:389][ 29]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.34.41:391][ 29]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.34.41
+[2019.05.27-19.34.41:392][ 29]LogWorld: Bringing up level for play took: 0.002094
+[2019.05.27-19.34.41:404][ 29]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.27-19.34.41:406][ 29]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone 0.924
+[2019.05.27-19.34.41:408][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.34.41:975][ 62]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (skybox2)
+[2019.05.27-19.34.42:040][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.34.45:810][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.34.45:974][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.34.45:975][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.34.46:016][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.34.46:017][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.34.46:053][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.34.46:079][317]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.27-19.34.50:426][693]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables)
+[2019.05.27-19.34.57:417][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.35.04:042][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.35.09:981][898]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.27-19.35.13:065][ 91]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables)
+[2019.05.27-19.35.16:401][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.35.20:041][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.35.37:018][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.35.42:354][799]LogEditorViewport: Clicking Background
+[2019.05.27-19.35.47:878][225]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_floatUpdate_Anim)
+[2019.05.27-19.36.01:593][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.36.01:686][ 80]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.36.01:712][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.36.01:713][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.36.01:713][ 80]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:36:01 AM)
+[2019.05.27-19.36.01:716][ 80]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.36.01:720][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004156s)
+[2019.05.27-19.36.01:721][ 80]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.36.01:721][ 80]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2019.05.27-19.36.01:722][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.005254s)
+[2019.05.27-19.36.01:787][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.36.01:818][ 80]LogInit: FAudioDevice initialized.
+[2019.05.27-19.36.01:852][ 80]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.36.01:855][ 80]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.36.01
+[2019.05.27-19.36.01:856][ 80]LogWorld: Bringing up level for play took: 0.003211
+[2019.05.27-19.36.01:873][ 80]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone -0.608
+[2019.05.27-19.36.01:908][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.36.03:227][164]LogEditorViewport: Clicking Background
+[2019.05.27-19.36.08:090][488]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_floatUpdate_Anim)
+[2019.05.27-19.36.13:112][746]LogEditorViewport: Clicking Background
+[2019.05.27-19.36.16:671][984]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.05.27-19.36.16:729][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.36.16:743][984]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.27-19.36.22:198][309]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.27-19.36.24:910][451]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.24:910][451]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:239][474]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:240][474]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:455][487]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:455][487]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:536][492]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:536][492]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:670][500]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:670][500]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:796][508]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:796][508]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:930][516]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.25:930][516]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.26:563][558]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.26:563][558]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.26:744][570]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.26:744][570]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.27:959][634]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.27:974][635]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.27:989][636]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:004][637]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:021][638]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:037][639]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:051][640]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:064][641]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:080][642]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:093][643]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:106][644]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:121][645]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:134][646]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:150][647]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:167][648]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:184][649]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:201][650]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:216][651]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:233][652]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:251][653]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:267][654]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:284][655]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.28:317][657]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.29:341][706]Cmd: TRANSACTION UNDO
+[2019.05.27-19.36.29:341][706]LogEditorTransaction: Undo Clicking on Components
+[2019.05.27-19.36.29:820][721]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.05.27-19.36.30:775][763]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:792][764]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:814][765]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:837][766]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:864][767]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:879][768]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:899][769]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:916][770]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:933][771]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:948][772]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:961][773]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:978][774]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.30:993][775]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.31:007][776]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.31:024][777]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.31:042][778]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.31:060][779]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.31:077][780]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.31:095][781]PIE: Warning: Mobility of /Game/UEDPIE_0_MenuZone.MenuZone:PersistentLevel.Plane_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.27-19.36.31:881][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.36.31:980][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.36.31:982][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.36.32:026][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.36.32:027][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.36.32:069][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.36.32:149][825]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.27-19.36.33:734][908]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.36.33:744][908]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.36.35:721][ 42]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.05.27-19.36.35:796][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.36.36:414][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.05.27-19.36.54:419][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.36.54:637][220]LogRenderer: Reallocating scene render targets to support 1004x424 Format 26 NumSamples 1 (Frame:17360).
+[2019.05.27-19.36.54:692][221]LogRenderer: Reallocating scene render targets to support 1004x432 Format 26 NumSamples 1 (Frame:17362).
+[2019.05.27-19.36.54:743][222]LogRenderer: Reallocating scene render targets to support 1004x440 Format 26 NumSamples 1 (Frame:17364).
+[2019.05.27-19.36.54:798][223]LogRenderer: Reallocating scene render targets to support 1004x456 Format 26 NumSamples 1 (Frame:17366).
+[2019.05.27-19.36.54:850][224]LogRenderer: Reallocating scene render targets to support 1004x480 Format 26 NumSamples 1 (Frame:17368).
+[2019.05.27-19.36.54:903][225]LogRenderer: Reallocating scene render targets to support 1004x508 Format 26 NumSamples 1 (Frame:17370).
+[2019.05.27-19.36.54:964][226]LogRenderer: Reallocating scene render targets to support 1004x524 Format 26 NumSamples 1 (Frame:17372).
+[2019.05.27-19.36.55:015][227]LogRenderer: Reallocating scene render targets to support 1004x536 Format 26 NumSamples 1 (Frame:17374).
+[2019.05.27-19.36.55:063][228]LogRenderer: Reallocating scene render targets to support 1004x552 Format 26 NumSamples 1 (Frame:17376).
+[2019.05.27-19.36.55:123][229]LogRenderer: Reallocating scene render targets to support 1004x568 Format 26 NumSamples 1 (Frame:17378).
+[2019.05.27-19.36.55:176][230]LogRenderer: Reallocating scene render targets to support 1004x584 Format 26 NumSamples 1 (Frame:17380).
+[2019.05.27-19.36.55:226][231]LogRenderer: Reallocating scene render targets to support 1004x588 Format 26 NumSamples 1 (Frame:17382).
+[2019.05.27-19.36.59:689][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.36.59:801][508]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.36.59:828][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.36.59:828][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.36.59:829][508]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:36:59 AM)
+[2019.05.27-19.36.59:829][508]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.36.59:833][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004496s)
+[2019.05.27-19.36.59:834][508]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.36.59:835][508]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2019.05.27-19.36.59:835][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.005932s)
+[2019.05.27-19.36.59:887][508]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.36.59:911][508]LogInit: FAudioDevice initialized.
+[2019.05.27-19.36.59:946][508]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.36.59:949][508]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.36.59
+[2019.05.27-19.36.59:950][508]LogWorld: Bringing up level for play took: 0.003070
+[2019.05.27-19.36.59:964][508]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone -0.517
+[2019.05.27-19.36.59:986][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.37.11:434][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.37.11:529][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.37.11:530][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.37.11:579][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.37.11:579][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.37.11:642][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.37.11:672][254]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.05.27-19.37.12:356][304]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables)
+[2019.05.27-19.37.13:390][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.37.14:011][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.37.14:824][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.37.19:910][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (skybox2)
+[2019.05.27-19.37.20:376][780]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.05.27-19.37.27:472][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.37.39:098][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.37.39:142][936]MapCheck: New page: Map Check
+[2019.05.27-19.37.39:168][936]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.27-19.37.39:169][936]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.27-19.37.39:258][936]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy inst_tile, compiling. 
+[2019.05.27-19.37.39:274][936]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.27-19.37.39:274][936]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy skybox, compiling. 
+[2019.05.27-19.37.39:290][936]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.27-19.37.39:290][936]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mon, compiling. 
+[2019.05.27-19.37.39:307][936]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy hs_registerNew_Mat, compiling. 
+[2019.05.27-19.37.39:323][936]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.27-19.37.39:323][936]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy scannerglowmat_Inst, compiling. 
+[2019.05.27-19.37.39:348][936]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_Sodar, compiling. 
+[2019.05.27-19.37.39:369][936]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Shadow_Inst, compiling. 
+[2019.05.27-19.37.42:727][936]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.27-19.37.42:728][936]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.27-19.37.42:728][936]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.27-19.37.42:728][936]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.27-19.37.42:728][936]TextureStreamingBuild: Display: Compiling optional shaders took 3.481 seconds.
+[2019.05.27-19.37.42:748][936]LogLevel: Display: Export Material TexCoord Scales took 0.020 seconds.
+[2019.05.27-19.37.42:768][936]TextureStreamingBuild: Display: Build Texture Streaming took 0.019 seconds.
+[2019.05.27-19.37.42:835][936]LightingResults: New page: Lighting Build - May 27, 2019, 11:37:42 AM
+[2019.05.27-19.37.42:942][936]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.27-19.37.43:197][936]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.27-19.37.43:229][936]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.27-19.37.44:251][936]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.27-19.37.44:251][936]LogSwarmInterface: [TryOpenConnection] Local Process ID is 146680
+[2019.05.27-19.38.39:231][936]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.05.27-19.38.39:231][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.27-19.38.39:231][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.27-19.38.39:231][936]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.27-19.38.39:231][936]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.27-19.38.39:231][936]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.27-19.38.39:630][936]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.27-19.38.39:630][936]MapCheck: New page: MenuZone - May 27, 2019, 11:38:39 AM
+[2019.05.27-19.38.39:631][936]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.05.27-19.38.39:632][936]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.776ms to complete.
+[2019.05.27-19.38.39:656][936]LogEditorBuildUtils: Build time 1:00
+[2019.05.27-19.38.52:904][972]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (13.166 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.27-19.39.02:732][991]LightingResults: Warning: skybox2 Object has overlapping UVs.
+[2019.05.27-19.39.02:732][991]LightingResults: skybox2 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.05.27-19.39.02:765][992]Job is a success!
+[2019.05.27-19.39.04:221][993]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.589s
+[2019.05.27-19.39.04:221][993]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.05.27-19.39.04:221][993]LogVolumetricLightmapImport:      BrickData 245x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.05.27-19.39.04:221][993]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.27-19.39.04:221][993]LogVolumetricLightmapImport:          0: 16.3% covering 100.0% of volume
+[2019.05.27-19.39.04:221][993]LogVolumetricLightmapImport:          1: 83.7% covering 8.0% of volume
+[2019.05.27-19.39.04:221][993]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.05.27-19.39.04:459][993]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2019.05.27-19.39.04:460][993]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2019.05.27-19.39.04:460][993]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2019.05.27-19.39.04:460][993]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.05.27-19.39.04:460][993]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2019.05.27-19.39.04:460][993]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.05.27-19.39.04:460][993]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X64)
+[2019.05.27-19.39.04:460][993]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X64)
+[2019.05.27-19.39.04:920][993]Lightmass on LANCE: 23.7 sec total, 295 ms importing, 67 ms setup, 9.68 sec photons, 13.6 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 54.1 sec total, 4.13 sec processing.
+[2019.05.27-19.39.04:942][993]LogStaticLightingSystem: Illumination: 1:21 min (89 ms encoding lightmaps, 166 ms encoding shadowmaps)
+[2019.05.27-19.39.04:942][993]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.05.27-19.39.04:942][993]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.05.27-19.39.05:393][993]DumpUnbuiltLightIteractions
+[2019.05.27-19.39.05:393][993]Lights with unbuilt interactions: 0
+[2019.05.27-19.39.05:393][993]
+[2019.05.27-19.39.05:394][993]Primitives with unbuilt interactions: 0
+[2019.05.27-19.39.05:499][994]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.27-19.39.05:500][994]MapCheck: New page: MenuZone - May 27, 2019, 11:39:05 AM
+[2019.05.27-19.39.05:501][994]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.368ms to complete.
+[2019.05.27-19.40.54:078][346]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.40.54:093][346]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.40.55:195][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.41.01:350][691]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.05.27-19.41.06:985][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.41.07:249][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.41.08:267][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (skybox2)
+[2019.05.27-19.41.09:236][ 57]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.05.27-19.41.14:358][329]LogEditorViewport: Clicking on Actor (LMB): Scanner_C (Scanner)
+[2019.05.27-19.41.14:919][356]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.05.27-19.41.15:040][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.41.15:894][395]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.05.27-19.41.15:952][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.41.16:433][420]LogEditorViewport: Clicking on Actor (LMB): Scanner_C (Scanner)
+[2019.05.27-19.41.21:521][687]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.05.27-19.41.38:525][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.41.38:646][582]MapCheck: New page: Map Check
+[2019.05.27-19.41.38:678][582]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.27-19.41.38:679][582]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.27-19.41.38:792][582]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy inst_tile, compiling. 
+[2019.05.27-19.41.38:812][582]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.27-19.41.38:812][582]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy skybox, compiling. 
+[2019.05.27-19.41.38:831][582]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.27-19.41.38:832][582]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mon, compiling. 
+[2019.05.27-19.41.38:847][582]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy hs_registerNew_Mat, compiling. 
+[2019.05.27-19.41.38:862][582]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.27-19.41.38:862][582]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy scannerglowmat_Inst, compiling. 
+[2019.05.27-19.41.38:880][582]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_Sodar, compiling. 
+[2019.05.27-19.41.38:894][582]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Shadow_Inst, compiling. 
+[2019.05.27-19.41.43:466][582]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.27-19.41.43:466][582]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.27-19.41.43:466][582]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.27-19.41.43:466][582]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.27-19.41.43:466][582]TextureStreamingBuild: Display: Compiling optional shaders took 4.685 seconds.
+[2019.05.27-19.41.43:495][582]LogLevel: Display: Export Material TexCoord Scales took 0.030 seconds.
+[2019.05.27-19.41.43:540][582]TextureStreamingBuild: Display: Build Texture Streaming took 0.044 seconds.
+[2019.05.27-19.41.43:626][582]LightingResults: New page: Lighting Build - May 27, 2019, 11:41:43 AM
+[2019.05.27-19.41.43:640][582]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.27-19.41.43:692][582]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.27-19.41.43:693][582]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.27-19.41.43:694][582]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.27-19.41.43:694][582]LogSwarmInterface: [TryOpenConnection] Local Process ID is 146680
+[2019.05.27-19.42.30:358][582]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.05.27-19.42.30:358][582]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.27-19.42.30:358][582]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.27-19.42.30:358][582]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.27-19.42.30:358][582]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.27-19.42.30:358][582]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.27-19.42.30:826][582]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.27-19.42.30:826][582]MapCheck: New page: MenuZone - May 27, 2019, 11:42:30 AM
+[2019.05.27-19.42.30:826][582]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.05.27-19.42.30:827][582]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.157ms to complete.
+[2019.05.27-19.42.30:851][582]LogEditorBuildUtils: Build time 0:52
+[2019.05.27-19.42.31:284][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuZone" FILE="../../../../Github/ugh/OverIT/MyProject3/Saved/Autosaves/Game/MenuZone_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.27-19.42.32:029][583]LogSavePackage: Moving '../../../../Github/ugh/OverIT/MyProject3/Saved/MenuZone_Auto1E69CB6A447C72A92909671AE60DC1316.tmp' to '../../../../Github/ugh/OverIT/MyProject3/Saved/Autosaves/Game/MenuZone_Auto1.umap'
+[2019.05.27-19.42.32:038][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MenuZone' took 0.832
+[2019.05.27-19.42.32:038][583]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.832
+[2019.05.27-19.42.32:043][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Scannables] ([1] browsable assets)...
+[2019.05.27-19.42.32:101][583]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Scannables.Scannables]
+[2019.05.27-19.42.32:101][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Scannables]
+[2019.05.27-19.42.32:101][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="../../../../Github/ugh/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Scannables_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.27-19.42.32:710][583]LogSavePackage: Moving '../../../../Github/ugh/OverIT/MyProject3/Saved/Scannables_Auto15E0056B141832A8578493889008A6EA3.tmp' to '../../../../Github/ugh/OverIT/MyProject3/Saved/Autosaves/Game/Blueprints/Scannables_Auto1.uasset'
+[2019.05.27-19.42.32:712][583]LogFileHelpers: Auto-saving content packages took 0.670
+[2019.05.27-19.42.42:675][683]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.42.42:694][683]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.42.52:535][781]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (21.588 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.27-19.43.01:830][805]LightingResults: Warning: skybox2 Object has overlapping UVs.
+[2019.05.27-19.43.01:830][805]LightingResults: skybox2 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.05.27-19.43.02:167][806]Job is a success!
+[2019.05.27-19.43.03:186][807]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.564s
+[2019.05.27-19.43.03:186][807]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.05.27-19.43.03:187][807]LogVolumetricLightmapImport:      BrickData 245x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.05.27-19.43.03:187][807]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.27-19.43.03:187][807]LogVolumetricLightmapImport:          0: 16.3% covering 100.0% of volume
+[2019.05.27-19.43.03:187][807]LogVolumetricLightmapImport:          1: 83.7% covering 8.0% of volume
+[2019.05.27-19.43.03:187][807]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.05.27-19.43.03:383][807]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.05.27-19.43.03:383][807]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2019.05.27-19.43.03:383][807]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.05.27-19.43.03:383][807]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2019.05.27-19.43.03:383][807]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.05.27-19.43.03:384][807]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.05.27-19.43.03:384][807]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 64X64)
+[2019.05.27-19.43.03:384][807]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2019.05.27-19.43.03:438][807]Lightmass on LANCE: 28.9 sec total, 530 ms importing, 69 ms setup, 18.6 sec photons, 9.60 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 38.3 sec total, 2.17 sec processing.
+[2019.05.27-19.43.03:570][807]LogStaticLightingSystem: Illumination: 1:19 min (40 ms encoding lightmaps, 136 ms encoding shadowmaps)
+[2019.05.27-19.43.03:570][807]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.05.27-19.43.03:570][807]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.05.27-19.43.04:549][807]DumpUnbuiltLightIteractions
+[2019.05.27-19.43.04:549][807]Lights with unbuilt interactions: 0
+[2019.05.27-19.43.04:549][807]
+[2019.05.27-19.43.04:549][807]Primitives with unbuilt interactions: 0
+[2019.05.27-19.43.04:633][808]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.27-19.43.04:635][808]MapCheck: New page: MenuZone - May 27, 2019, 11:43:04 AM
+[2019.05.27-19.43.04:638][808]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.894ms to complete.
+[2019.05.27-19.44.01:199][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.44.03:032][ 56]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.44.03:046][ 56]LogSlate: Window 'Message Log' being destroyed
+[2019.05.27-19.44.12:123][558]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_floatUpdate_Anim)
+[2019.05.27-19.44.13:058][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.44.13:769][651]LogEditorViewport: Clicking Background
+[2019.05.27-19.44.14:339][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.44.25:105][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.44.25:245][511]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.44.25:270][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.44.25:270][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.44.25:270][511]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:44:25 AM)
+[2019.05.27-19.44.25:270][511]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.44.25:274][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003386s)
+[2019.05.27-19.44.25:275][511]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.44.25:275][511]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2019.05.27-19.44.25:275][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.005165s)
+[2019.05.27-19.44.25:328][511]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.44.25:355][511]LogInit: FAudioDevice initialized.
+[2019.05.27-19.44.25:396][511]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.44.25:399][511]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.44.25
+[2019.05.27-19.44.25:400][511]LogWorld: Bringing up level for play took: 0.003470
+[2019.05.27-19.44.25:415][511]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone 0.934
+[2019.05.27-19.44.25:418][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.44.32:368][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.44.32:461][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.44.32:462][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.44.32:508][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.44.32:509][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.44.32:559][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.44.32:581][982]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.27-19.44.33:582][ 56]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_floatUpdate_Anim)
+[2019.05.27-19.44.35:830][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.44.40:569][374]LogEditorViewport: Clicking Background
+[2019.05.27-19.44.41:215][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.44.42:895][525]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_floatUpdate_Anim)
+[2019.05.27-19.44.45:593][689]LogEditorViewport: Clicking Background
+[2019.05.27-19.44.46:816][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.44.46:917][785]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.44.46:953][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.44.46:953][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.44.46:953][785]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:44:46 AM)
+[2019.05.27-19.44.46:953][785]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.44.46:957][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003898s)
+[2019.05.27-19.44.46:959][785]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.44.46:959][785]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2019.05.27-19.44.46:959][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.005765s)
+[2019.05.27-19.44.47:016][785]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.44.47:043][785]LogInit: FAudioDevice initialized.
+[2019.05.27-19.44.47:075][785]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.44.47:077][785]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.44.47
+[2019.05.27-19.44.47:078][785]LogWorld: Bringing up level for play took: 0.002790
+[2019.05.27-19.44.47:092][785]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone 0.611
+[2019.05.27-19.44.47:095][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.44.47:812][826]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (skybox2)
+[2019.05.27-19.44.47:894][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.44.53:831][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.44.53:940][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.44.53:942][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.44.54:007][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.44.54:007][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.44.54:064][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.44.54:086][140]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.27-19.44.57:922][416]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.05.27-19.44.59:319][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.45.02:467][687]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.27-19.45.03:291][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (skybox2)
+[2019.05.27-19.45.05:818][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.45.07:912][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.45.10:754][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.45.10:863][172]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.45.10:905][172]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.45.10:905][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.45.10:906][172]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:45:10 AM)
+[2019.05.27-19.45.10:906][172]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.45.10:910][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004368s)
+[2019.05.27-19.45.10:911][172]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.45.10:912][172]LogPlayLevel: PIE: World Init took: (0.001635s)
+[2019.05.27-19.45.10:912][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.006385s)
+[2019.05.27-19.45.10:979][172]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.45.11:005][172]LogInit: FAudioDevice initialized.
+[2019.05.27-19.45.11:042][172]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.45.11:044][172]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.45.11
+[2019.05.27-19.45.11:044][172]LogWorld: Bringing up level for play took: 0.002168
+[2019.05.27-19.45.11:058][172]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone 0.576
+[2019.05.27-19.45.11:080][172]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.45.15:891][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.45.15:999][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.45.16:000][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.45.16:042][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.45.16:043][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.45.16:081][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.45.16:105][488]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.05.27-19.45.23:360][936]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.45.23:390][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.45.23:390][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.45.23:391][936]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:45:23 AM)
+[2019.05.27-19.45.23:391][936]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.45.23:396][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005443s)
+[2019.05.27-19.45.23:398][936]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.45.23:398][936]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2019.05.27-19.45.23:398][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.007175s)
+[2019.05.27-19.45.23:489][936]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.45.23:520][936]LogInit: FAudioDevice initialized.
+[2019.05.27-19.45.23:554][936]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.45.23:558][936]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.45.23
+[2019.05.27-19.45.23:560][936]LogWorld: Bringing up level for play took: 0.004551
+[2019.05.27-19.45.23:575][936]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone 1.094
+[2019.05.27-19.45.23:579][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.45.36:381][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.45.39:219][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.45.39:219][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.45.39:261][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.45.39:262][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.45.39:302][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.45.39:334][985]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.27-19.46.15:690][309]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.27-19.46.17:335][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.46.24:270][908]LogEditorViewport: Clicking on Actor (context menu): Scanner_C (Scanner)
+[2019.05.27-19.46.24:329][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.46.24:942][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.46.29:135][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.46.36:749][679]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.46.36:780][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.46.36:780][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.46.36:780][679]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:46:36 AM)
+[2019.05.27-19.46.36:780][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.46.36:785][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005062s)
+[2019.05.27-19.46.36:787][679]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.46.36:787][679]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2019.05.27-19.46.36:787][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.007045s)
+[2019.05.27-19.46.36:857][679]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.46.36:892][679]LogInit: FAudioDevice initialized.
+[2019.05.27-19.46.36:928][679]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.46.36:930][679]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.46.36
+[2019.05.27-19.46.36:931][679]LogWorld: Bringing up level for play took: 0.002609
+[2019.05.27-19.46.36:945][679]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone 0.464
+[2019.05.27-19.46.36:961][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.46.45:376][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.46.45:464][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.46.45:466][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.46.45:518][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.46.45:518][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.46.45:578][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.46.45:602][276]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.05.27-19.46.55:232][894]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.27-19.46.55:989][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.46.56:091][938]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.46.56:120][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.46.56:121][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.46.56:121][938]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:46:56 AM)
+[2019.05.27-19.46.56:121][938]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.46.56:125][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003454s)
+[2019.05.27-19.46.56:125][938]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.46.56:126][938]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2019.05.27-19.46.56:126][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.005123s)
+[2019.05.27-19.46.56:178][938]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.46.56:202][938]LogInit: FAudioDevice initialized.
+[2019.05.27-19.46.56:234][938]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.46.56:236][938]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.46.56
+[2019.05.27-19.46.56:237][938]LogWorld: Bringing up level for play took: 0.002423
+[2019.05.27-19.46.56:251][938]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone -0.23
+[2019.05.27-19.46.56:268][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.46.58:904][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.46.58:905][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.46.58:963][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.46.58:963][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.46.59:018][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.46.59:041][121]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.05.27-19.47.02:847][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.47.27:485][ 92]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.47.27:517][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.47.27:517][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.47.27:517][ 92]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:47:27 AM)
+[2019.05.27-19.47.27:518][ 92]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.47.27:522][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003880s)
+[2019.05.27-19.47.27:523][ 92]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.47.27:523][ 92]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2019.05.27-19.47.27:523][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.005803s)
+[2019.05.27-19.47.27:588][ 92]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.47.27:616][ 92]LogInit: FAudioDevice initialized.
+[2019.05.27-19.47.27:652][ 92]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.47.27:655][ 92]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.47.27
+[2019.05.27-19.47.27:656][ 92]LogWorld: Bringing up level for play took: 0.003270
+[2019.05.27-19.47.27:671][ 92]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone -0.811
+[2019.05.27-19.47.27:694][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.47.36:107][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.47.36:214][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.47.36:215][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.47.36:261][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.47.36:262][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.47.36:304][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.47.36:319][660]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.05.27-19.47.51:806][647]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.27-19.47.53:740][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.47.53:863][765]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.47.53:923][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.47.53:923][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.47.53:923][765]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:47:53 AM)
+[2019.05.27-19.47.53:924][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.47.53:929][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005093s)
+[2019.05.27-19.47.53:930][765]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.47.53:930][765]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2019.05.27-19.47.53:930][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.006775s)
+[2019.05.27-19.47.53:983][765]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.47.54:008][765]LogInit: FAudioDevice initialized.
+[2019.05.27-19.47.54:041][765]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.47.54:043][765]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.47.54
+[2019.05.27-19.47.54:044][765]LogWorld: Bringing up level for play took: 0.002508
+[2019.05.27-19.47.54:059][765]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone -0.422
+[2019.05.27-19.47.54:088][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.47.57:698][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.47.58:344][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.47.59:487][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.47.59:489][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.47.59:538][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.47.59:538][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.47.59:592][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.47.59:611][122]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.05.27-19.50.33:199][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.50.41:569][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.50.41:619][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.53.37:031][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.53.37:119][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuZone" FILE="../../../../Github/ugh/OverIT/MyProject3/Saved/Autosaves/Game/MenuZone_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.27-19.53.37:377][651]LogSavePackage: Moving '../../../../Github/ugh/OverIT/MyProject3/Saved/MenuZone_Auto2AF63F7A146A215ACA183349596FAFDC3.tmp' to '../../../../Github/ugh/OverIT/MyProject3/Saved/Autosaves/Game/MenuZone_Auto2.umap'
+[2019.05.27-19.53.37:380][651]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MenuZone' took 0.323
+[2019.05.27-19.53.37:380][651]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.323
+[2019.05.27-19.56.51:245][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.56.54:695][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.57.02:680][185]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.27-19.57.03:441][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.57.03:548][223]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.57.03:595][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.57.03:596][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.57.03:596][223]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:57:03 AM)
+[2019.05.27-19.57.03:596][223]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.57.03:603][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006876s)
+[2019.05.27-19.57.03:605][223]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.57.03:606][223]LogPlayLevel: PIE: World Init took: (0.002437s)
+[2019.05.27-19.57.03:606][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.009751s)
+[2019.05.27-19.57.03:713][223]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.57.03:739][223]LogInit: FAudioDevice initialized.
+[2019.05.27-19.57.03:772][223]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.57.03:775][223]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.57.03
+[2019.05.27-19.57.03:776][223]LogWorld: Bringing up level for play took: 0.003886
+[2019.05.27-19.57.03:791][223]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone -0.689
+[2019.05.27-19.57.03:808][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.57.13:305][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.27-19.57.14:445][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.57.14:445][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.57.14:498][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.57.14:498][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.57.14:584][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.57.14:612][737]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.05.27-19.57.16:214][809]LogTemp: Repeating last play command: Simulate
+[2019.05.27-19.57.16:244][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.57.16:244][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.27-19.57.16:244][809]PIE: New page: SIE session: MenuZone (May 27, 2019, 11:57:16 AM)
+[2019.05.27-19.57.16:244][809]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MenuZone
+[2019.05.27-19.57.16:248][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004206s)
+[2019.05.27-19.57.16:249][809]LogAIModule: Creating AISystem for world MenuZone
+[2019.05.27-19.57.16:250][809]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2019.05.27-19.57.16:250][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MenuZone.MenuZone to /Game/UEDPIE_0_MenuZone.MenuZone (0.005589s)
+[2019.05.27-19.57.16:303][809]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.27-19.57.16:330][809]LogInit: FAudioDevice initialized.
+[2019.05.27-19.57.16:365][809]LogLoad: Game class is 'GameModeBase'
+[2019.05.27-19.57.16:367][809]LogWorld: Bringing World /Game/UEDPIE_0_MenuZone.MenuZone up for play (max tick rate 0) at 2019.05.27-15.57.16
+[2019.05.27-19.57.16:368][809]LogWorld: Bringing up level for play took: 0.002230
+[2019.05.27-19.57.16:381][809]PIE: Play in editor start time for /Game/UEDPIE_0_MenuZone -0.099
+[2019.05.27-19.57.16:385][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.57.17:576][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.57.17:576][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.57.17:633][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.27-19.57.17:633][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MenuZone.MenuZone:PersistentLevel' has LevelScriptBlueprint '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone' with GeneratedClass '/Game/MenuZone.MenuZone_C' with ClassGeneratedBy '/Game/MenuZone.MenuZone:PersistentLevel.MenuZone'
+[2019.05.27-19.57.17:693][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.27-19.57.17:718][871]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.05.27-19.57.19:570][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuZone" FILE="../../../../Github/ugh/OverIT/MyProject3/Content/MenuZone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.27-19.57.19:880][959]LogSavePackage: Moving '../../../../Github/ugh/OverIT/MyProject3/Saved/MenuZone799282D541CDF03C034D769C5D3307A3.tmp' to '../../../../Github/ugh/OverIT/MyProject3/Content/MenuZone.umap'
+[2019.05.27-19.57.19:932][959]LogFileHelpers: Saving map 'MenuZone' took 0.363
+[2019.05.27-19.57.19:936][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuZone_BuiltData" FILE="../../../../Github/ugh/OverIT/MyProject3/Content/MenuZone_BuiltData.uasset" SILENT=true
+[2019.05.27-19.57.19:969][959]LogSavePackage: Moving '../../../../Github/ugh/OverIT/MyProject3/Saved/MenuZone_BuiltData5849238E4C8CFBFD166E1ABF8EF58B00.tmp' to '../../../../Github/ugh/OverIT/MyProject3/Content/MenuZone_BuiltData.uasset'
+[2019.05.27-19.57.19:979][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="../../../../Github/ugh/OverIT/MyProject3/Content/Blueprints/Scannables.uasset" SILENT=true
+[2019.05.27-19.57.20:162][959]LogSavePackage: Moving '../../../../Github/ugh/OverIT/MyProject3/Saved/ScannablesD70D7A484FBEFAB9278432A69A257CA9.tmp' to '../../../../Github/ugh/OverIT/MyProject3/Content/Blueprints/Scannables.uasset'
+[2019.05.27-19.57.21:020][  0]LogEditorViewport: Clicking on Actor (LMB): Scanner_C (Scanner)
+[2019.05.27-19.57.24:405][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.27-19.57.27:830][317]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scanner.Scanner
+[2019.05.27-19.57.29:459][348]LogUObjectBase: Warning: Object is not registered
+[2019.05.27-19.57.29:459][348]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.27-19.57.31:547][348]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.088 s
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: 
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: Stack: 
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff29668304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff296781ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff2825bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff2439769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff24350917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff2b827c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff2ba74393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff2b882d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff2b858a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff2b84b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff58cbdc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff58cb0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff58cc01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff58caca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff63cf6d41 USER32.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff63cf6713 USER32.dll!UnknownFunction []
+[2019.05.27-19.57.31:547][348]LogOutputDevice: Error: [Callstack] 0x00007fff58cc1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.27-19.57.31:548][348]LogOutputDevice: Error: [Callstack] 0x00007ff630fc5546 UE4Editor.exe!UnknownFunction []
+[2019.05.27-19.57.31:548][348]LogOutputDevice: Error: [Callstack] 0x00007ff630fd596c UE4Editor.exe!UnknownFunction []
+[2019.05.27-19.57.31:548][348]LogOutputDevice: Error: [Callstack] 0x00007ff630fd59ea UE4Editor.exe!UnknownFunction []
+[2019.05.27-19.57.31:548][348]LogOutputDevice: Error: [Callstack] 0x00007ff630fe48da UE4Editor.exe!UnknownFunction []
+[2019.05.27-19.57.31:548][348]LogOutputDevice: Error: [Callstack] 0x00007ff630fe659a UE4Editor.exe!UnknownFunction []
+[2019.05.27-19.57.31:548][348]LogOutputDevice: Error: [Callstack] 0x00007fff65b94034 KERNEL32.DLL!UnknownFunction []
+[2019.05.27-19.57.31:548][348]LogOutputDevice: Error: [Callstack] 0x00007fff65db3691 ntdll.dll!UnknownFunction []
+[2019.05.27-19.57.31:548][348]LogOutputDevice: Error: 
+[2019.05.27-19.57.31:557][348]LogStats:                SubmitErrorReport -  0.000 s
