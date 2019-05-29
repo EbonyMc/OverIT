@@ -592,3 +592,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.29-02.36.35:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 [2019.05.29-02.36.35:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 [2019.05.29-02.36.35:609][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-02.36.35:626][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.29-02.36.36:041][  0]LogSlate: Took 0.010684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-02.36.36:049][  0]LogSlate: Took 0.005873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-02.36.36:112][  0]LogSlate: Took 0.048764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-02.36.36:328][  0]LogRenderer: Reallocating scene render targets to support 872x356 Format 26 NumSamples 1 (Frame:1).
+[2019.05.29-02.36.36:685][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.29-02.36.36:685][  0]LogLoad: (Engine Initialization) Total time: 54.92 seconds
+[2019.05.29-02.36.36:685][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-02.36.36:787][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.29-02.36.36:801][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-02.36.36:942][  1]LogRenderer: Reallocating scene render targets to support 872x364 Format 26 NumSamples 1 (Frame:3).
+[2019.05.29-02.36.37:679][  9]LogAssetRegistry: Asset discovery search completed in 35.1629 seconds
+[2019.05.29-02.36.37:681][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-02.36.37:681][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
